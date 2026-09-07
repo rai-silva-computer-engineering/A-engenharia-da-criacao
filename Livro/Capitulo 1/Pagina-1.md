@@ -36,5 +36,5 @@ Se organizar circuitos e fluxos de dados exige propósito, o que significa habit
 
 <div align="center">
 
-[Avançar para a Página 2](./Capitulo-1/Pagina-2.md)
+[Avançar para a Página 2](Pagina-2.md)
 </div>
