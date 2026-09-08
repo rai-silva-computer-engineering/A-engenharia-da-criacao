@@ -170,4 +170,4 @@ A resposta não estará nos circuitos. Estará naquilo que eles podem nos ajudar
 
 E, acima de tudo, estará nas Escrituras.
 
-[Avançar para o Capítulo 1 - Página 1](./Pagina-1.md)
+[Avançar para o Capítulo 1 - Página 1](./Livro/Capitulo%201/Pagina-1.md)
