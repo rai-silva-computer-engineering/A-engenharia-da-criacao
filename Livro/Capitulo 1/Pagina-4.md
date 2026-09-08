@@ -9,19 +9,18 @@
 
 ---
 
-Quando estudamos Engenharia da Computação, aprendemos que possuir os componentes necessários não garante um sistema funcional. Sobre uma bancada, podemos dispor resistores, capacitores, transistores, uma fonte e fios. Temos matéria para montar um circuito, mas não, necessariamente, uma função. O que converte um lote de peças em um sistema é o arranjo das relações entre elas.
+Quando estudamos Engenharia da Computação, aprendemos rapidamente que possuir os componentes necessários não significa possuir um sistema funcional. Podemos colocar sobre uma bancada um resistor, um capacitor, um transistor, uma fonte de alimentação e alguns fios. Temos matéria suficiente para construir um circuito, mas ainda não temos, necessariamente, uma função. O que transforma um conjunto de peças em um sistema é a organização das relações entre elas.
 
-A corrente elétrica percorre uma malha fechada graças à diferença de potencial, dinâmica descrita pela Lei de Ohm ($V = R \cdot I$). Essa equação não é um artifício inventado após o funcionamento; ela traduz uma regularidade física pré-existente que governa o comportamento do arranjo. 
+Considere, por exemplo, um circuito extremamente simples:
 
-Nós não criamos a proporção entre tensão, resistência e corrente; apenas a descobrimos. A realidade já trazia essa harmonia estrutural antes de qualquer fórmula ser redigida.
+```text
+      R
++ ───/\/\/─── LED ─── -
+│                     │
+└────── Fonte ────────┘
 
-Do mesmo modo, um transistor isolado possui apenas propriedades elementares; contudo, milhares ou milhões deles dispostos com precisão formam portas lógicas, somadores, processadores e, em última instância, executam rotinas de informação. 
-
-Essa progressão evidencia que a matéria fornece os insumos, mas a arquitetura dita o nexo, e são as relações que geram o comportamento. Um conjunto de transistores soltos sobre a mesa jamais formará um chip; a mera presença das peças nunca explicará a gênese da organização.
-
-Ao voltarmos os olhos para o mundo natural, constatamos o mesmo princípio em escala cósmica: encontramos matéria estruturada, equações consistentes e sistemas capazes de processar instruções. Quanto mais investigamos, mais evidente se torna que não estamos diante de um aglomerado caótico, mas de um projeto subjacente.
-
----
+```
+A corrente elétrica percorre o circuito porque existe uma diferença de potencial e um caminho condutor fechado. Podemos representar uma das relações fundamentais desse sistema pela Lei de Ohm:$$V = R \cdot I$$onde:$V = \text{tensão}$$R = \text{resistência}$$I = \text{corrente}$Essa equação não é apenas uma fórmula que colocamos no papel depois que o circuito funciona. Ela descreve uma relação física que determina o comportamento do sistema. Se aplicarmos uma tensão de $5\,V$ a um resistor de $1\,k\Omega$, por exemplo:$$I = \frac{V}{R}$$$$I = \frac{5}{1000}$$$$I = 0,005\,A \quad (\text{ou } 5\,mA)$$A alteração de qualquer parâmetro modifica o comportamento do circuito. Isso significa que existe uma relação precisa entre matéria, energia, estrutura e comportamento. O resistor não precisa "saber" o que está fazendo, e o elétron não precisa compreender a equação; o circuito simplesmente responde às propriedades físicas que governam seus componentes.Nós, engenheiros, não criamos a relação entre tensão, resistência e corrente. Nós a descobrimos. Podemos utilizá-la para projetar uma placa, dimensionar uma fonte ou proteger um componente, mas não decidimos que $V = R \cdot I$ deveria ser assim. A realidade física já possuía essa regularidade antes de qualquer engenheiro escrever a primeira equação.
 
 <div align="center">
 
