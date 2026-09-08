@@ -30,6 +30,6 @@ O Criador não programa o amor. Ele oferece o livre curso da escolha, assumindo 
 
 <div align="center">
 
-[Avançar para a Página 4](pagina-04.md)
+[Avançar para a Página 4](./Pagina-4.md)
 
 </div>
