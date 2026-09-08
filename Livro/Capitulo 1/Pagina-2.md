@@ -30,9 +30,8 @@ Nesse ponto, a comparação técnica atinge seu limite mais fascinante: Deus nã
 O maior drama da história não decorreu de um curto-circuito imprevisto, mas de uma decisão deliberada. Antes de investigarmos as consequências da rebeldia, precisamos encarar a pergunta estrutural: por que o Criador nos dotou de arbítrio, sabendo o custo que isso comportava?
 
 ---
-
 <div align="center">
 
-[Avançar para a Página 3](Pagina-03.md)
+[Avançar para a Página 3](./Pagina-3.md)
 
 </div>
