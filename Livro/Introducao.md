@@ -169,3 +169,5 @@ E é a partir dessa ideia que iniciaremos nossa jornada — do projeto à liberd
 A resposta não estará nos circuitos. Estará naquilo que eles podem nos ajudar a enxergar.
 
 E, acima de tudo, estará nas Escrituras.
+
+[Ir para o Capítulo 1 - Página 1](../Capitulo-1/Pagina-1.md)
