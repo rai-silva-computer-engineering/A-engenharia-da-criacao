@@ -71,5 +71,6 @@ Na segunda, encontramos uma placa eletrônica:
 ```
 Nas duas situações existe matéria. Mas somente na segunda encontramos uma organização funcional identificável. A matéria pode constituir um sistema, mas é a organização das relações que determina sua arquitetura e seu comportamento.
 
-E isso nos conduz diretamente a uma nova indagação: o que define, de fato, a organização? Como reconhecer quando um arranjo deixa de ser mera matéria para carregar informação estruturada? É exatamente nesse cruzamento que a engenharia deixa de observar apenas correntes elétricas e entra no território conceitual da informação
+E isso nos conduz diretamente a uma nova indagação: o que define, de fato, a organização? Como reconhecer quando um arranjo deixa de ser mera matéria para carregar informação estruturada? É exatamente nesse cruzamento que a engenharia deixa de observar apenas correntes elétricas e entra no território conceitual da informação.
  
+[Próximo Capitulo (Página 6)](./pagina-6.md)
