@@ -2,9 +2,8 @@
 ## Porque Deus não programa o amor?
 
 ### Capítulo 2 — Página 8
-#### A Criação Diante dos Olhos de um Engenheiro
 
-Até aqui, observei a realidade como um estudante de Engenharia da Computação: matéria, componentes, transistores, circuitos e relações matemáticas. Mas, em algum momento, o engenheiro precisa levantar os olhos da bancada. Porque existe um sistema muito maior diante dele: a própria criação.
+Até aqui, observei a realidade como estudioso na área de Engenharia da Computação: matéria, componentes, transistores, circuitos e relações matemáticas. Mas, em algum momento, o engenheiro precisa levantar os olhos da bancada. Porque existe um sistema muito maior diante dele: a própria criação.
 
 E então surge a pergunta: o que a Engenharia da Computação tem a ver com teologia? 
 
@@ -12,11 +11,9 @@ A princípio, aparentemente, nada. A engenharia estuda sistemas computacionais, 
 
 O engenheiro procura relações, dependências, condições de funcionamento, limites, estabilidade e arquitetura. Ao observar a natureza, ele encontra algo impressionante: a realidade também possui relações, condições, regularidades e limites matematicamente descrevíveis. A Terra não é uma placa-mãe, o universo não é um processador e Deus não é um programador humano, mas o engenheiro reconhece ordem.
 
-### A Questão da Ciência
-
 É comum afirmar que “a ciência não prova a existência de Deus.” Em determinado sentido, isso é verdadeiro. A ciência experimental trabalha com observação, medição, hipótese e teste sobre fenômenos naturais. Não colocamos “Deus” como componente em uma bancada para obter uma leitura em volts ou amperes.
 
-Mas será que precisamos colocar Deus dentro de uma equação para que a ciência tenha relação com a questão de sua existência? 
+Mas será que precisamos colocar Deus dentro de uma equação para que a ciência tenha relação com a questão de sua existência? Caberia Deus dentro de uma equação?
 
 A teologia não depende da ciência para que Deus seja Deus. A Bíblia não começa dizendo: “No princípio, os cientistas demonstraram...”, mas sim com uma declaração teológica:
 
