@@ -2,7 +2,6 @@
 ## Porque Deus não programa o amor?
 
 ### Capítulo 2 — Página 7
-#### O Transistor: Quando a Física se Torna Lógica
 
 Se existe um componente que representa de maneira quase perfeita a passagem entre o mundo físico e o mundo da computação, esse componente é o transistor.
 
