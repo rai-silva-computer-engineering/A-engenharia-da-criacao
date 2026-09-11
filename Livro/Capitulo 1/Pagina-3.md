@@ -24,7 +24,7 @@ Isso decodifica o mecanismo do Grande Conflito: o desvio inaugural não brotou d
 
 O Criador não programa o amor. Ele oferece o livre curso da escolha, assumindo o ônus dessa autonomia. Quando essa prerrogativa foi instrumentalizada contra o próprio Céu, uma interrogação passou a gravitar sobre o cosmos: quem detém a retidão, o Criador ou a criatura insurgente? 
 
-É exatamente em torno desse dilema que gira todo o eixo do Grande Conflito.
+É exatamente em torno desse dilema que gira todo o eixo do Grande Conflito. Mas nos aprofundaremos melhor nisso em capítulos futuros
 
 ---
 
