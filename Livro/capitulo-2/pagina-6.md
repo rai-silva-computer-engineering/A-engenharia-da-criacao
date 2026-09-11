@@ -30,9 +30,6 @@ Há física obedecendo a uma arquitetura.
 O transistor não compreende a lógica que está realizando. O elétron não sabe que está participando de uma operação matemática. O material semicondutor não conhece o significado do resultado.
 
 Ainda assim, quando milhões ou bilhões desses elementos são organizados segundo uma arquitetura, surge um sistema capaz de representar, armazenar, transformar e transmitir informação.
-
-É aqui que a perspectiva do engenheiro começa a encontrar uma pergunta que ultrapassa a própria engenharia.
-
 Nós conseguimos construir sistemas nos quais matéria organizada produz comportamento funcional.
 
 Mas nós não inventamos as propriedades fundamentais que tornam essa organização possível.
