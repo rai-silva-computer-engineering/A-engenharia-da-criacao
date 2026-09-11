@@ -42,4 +42,4 @@ Se Deus tinha poder para criar uma realidade tão ordenada, por que criou criatu
 
 ---
 
-[Próxima página(página 10)] (./pagina-10.md)
+[Próxima página(página 10)] ( ./pagina-10.md)
