@@ -29,7 +29,7 @@ INFORMAÇÃO
 As propriedades individuais da matéria não explicam, sozinhas, a arquitetura do sistema. Um transistor isolado possui propriedades elétricas, mas milhares ou milhões deles organizados formam portas lógicas, somadores, processadores e executam programas capazes de manipular informação. A matéria fornece os elementos, mas é a arquitetura que estabelece as relações, e são as relações que produzem os comportamentos. Um monte de transistores soltos sobre uma mesa não constitui um processador.
 
 A engenharia possui uma característica fascinante: muitas das estruturas que
-A engenharia possui uma característica fascinante: muitas das estruturas que construímos podem ser descritas por matemática. Considere uma associação de resistores em série:
+ construímos podem ser descritas por matemática. Considere uma associação de resistores em série:
 
 + ── R₁ ── R₂ ── R₃ ── -
   A resistência equivalente pode ser calculada por:
@@ -44,6 +44,11 @@ Isso demonstra uma correspondência extraordinária entre a descrição matemát
 
 Por que a realidade é matematicamente inteligível? Isso nos obriga a reconhecer que o universo não é composto apenas por coisas isoladas, mas por relações consistentes entre as coisas — relações que podem ser medidas, modeladas e utilizadas para previsões.
 
+
+```text
+É preciso mais do que fé para acreditar que tudo surgiu do nada!
+
+```
 Para ilustrar a diferença entre possuir peças e possuir projeto, imagine duas situações. Na primeira, encontramos uma caixa contendo:
 
 resistores
