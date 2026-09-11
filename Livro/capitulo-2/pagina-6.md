@@ -2,7 +2,7 @@
 ## Porque Deus não programa o amor?
 
 ### Capítulo 2 — Página 6
-#### Quando a matéria começa a obedecer
+
 
 Até aqui, observamos uma distinção fundamental: o engenheiro não cria as leis que governam a realidade. Ele aprende a reconhecê-las, descrevê-las matematicamente e utilizá-las para construir sistemas capazes de realizar determinadas funções.
 
