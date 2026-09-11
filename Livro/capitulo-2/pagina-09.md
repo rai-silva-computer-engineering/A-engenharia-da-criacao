@@ -38,8 +38,5 @@ A ciência descreve como as coisas funcionam. A teologia pergunta por que existe
 
 Um engenheiro pode projetar um circuito para obedecer ou um processador para executar instruções. Mas Deus não criou seres humanos simplesmente para executar instruções como máquinas. Ele criou seres capazes de conhecer, amar, escolher, obedecer e também rejeitar. 
 
-Se Deus tinha poder para criar uma realidade tão ordenada, por que criou criaturas com liberdade suficiente para desordená-la? Para compreender a resposta, precisamos continuar investigando o próprio ato de criar.
-
----
 
 [Próxima página(página 10)](./pagina-10.md)
