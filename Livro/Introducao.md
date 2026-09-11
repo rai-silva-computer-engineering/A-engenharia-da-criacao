@@ -20,13 +20,10 @@ Mas existe uma pergunta que vai além da engenharia:
 
 Essa é a proposta deste livro.
 
-Há algo que começou a acontecer durante minha própria caminhada. Quanto mais estudo nesta área, mais descubro perguntas que me levam à teologia. E quanto mais me aprofundo na teologia, mais encontro conceitos que me fazem olhar para a minha profissão de uma maneira diferente.
-
+Há algo que começou a acontecer durante minha própria caminhada. Quanto mais estudo engenharia, mais descubro perguntas que me levam à teologia.
 Não porque ambas sejam a mesma coisa, mas porque despertam perguntas profundas sobre ordem, propósito, estrutura, liberdade, funcionamento e existência.
 
-Foi dessa experiência que nasceu a ideia deste livro.
-
-Talvez a tecnologia não tenha as respostas para as perguntas da teologia. Mas, algumas vezes, ela nos ajuda a enxergar melhor as perguntas que já estavam diante de nós.
+"Talvez" a tecnologia não tenha as respostas para as perguntas da teologia. Mas, algumas vezes, ela nos ajuda a enxergar melhor as perguntas que já estavam diante de nós.
 
 E talvez, ao tentar compreender os sistemas que nós mesmos construímos, descubramos novas maneiras de refletir sobre o Deus que criou aquilo que nós jamais poderíamos construir.
 
@@ -34,7 +31,7 @@ E talvez, ao tentar compreender os sistemas que nós mesmos construímos, descub
 
 ## A célula como sistema
 
-Quando um profissional observa um sistema complexo, ele não enxerga apenas as peças que o compõem. Ele procura entender como essas peças se relacionam.
+Quando um engenheiro da computação observa um sistema complexo, ele não enxerga apenas as peças que o compõem. Ele procura entender como essas peças se relacionam.
 
 Uma placa eletrônica, por exemplo, possui resistores, capacitores, transistores, diodos, circuitos integrados, trilhas condutoras e diversos outros componentes. Cada elemento possui uma função. Cada conexão precisa estar corretamente estabelecida. Tensões e correntes precisam obedecer a determinados princípios físicos.
 
@@ -70,9 +67,9 @@ Esses conceitos fazem parte do cotidiano da nossa formação. E, quando começam
 
 > *De onde vem essa informação?*
 
-Um algoritmo é uma sequência organizada de instruções destinada a produzir determinado resultado. Quando encontramos um sistema extremamente complexo baseado em informação, surge naturalmente a pergunta sobre a origem dessa informação.
+Um algoritmo é uma sequência organizada de instruções destinada a produzir determinado resultado. Quando encontramos um sistema extremamente complexo baseado em informação, surge naturalmente a pergunta sobre a origem da mesma.
 
-É nesse ponto que alguns autores e pesquisadores fazem uma associação entre a estrutura do DNA e a ideia de uma inteligência por trás da vida. Gregg Braden, que também é engenheiro da computação, além de autor, pesquisador e palestrante, estuda temas relacionados à geologia, à computação, à história das civilizações, às tradições espirituais e à relação entre ciência e espiritualidade. Em suas obras e palestras, popularizou a expressão “assinatura de Deus” ao discutir padrões presentes no DNA. Essa interpretação, entretanto, pertence ao campo de uma argumentação filosófica ou teológica e não deve ser apresentada como uma conclusão científica estabelecida.
+É nesse ponto que alguns autores e pesquisadores fazem uma associação entre a estrutura do DNA e a ideia de uma inteligência por trás da vida. Gregg Braden, que também é engenheiro da computação, além de autor, pesquisador e palestrante, estuda temas relacionados à geologia, à computação, à história das civilizações, às tradições espirituais e à relação entre ciência e espiritualidade. Em suas obras e palestras, popularizou a expressão “assinatura de Deus” ao discutir padrões presentes no DNA e ao analisar propriedades químicas ou sequências estruturais do mesmo, é possível extrair uma sequência numérica (frequentemente associada aos números 10, 5, 6 e 5). Quando esses números são convertidos para o alfabeto hebraico com base na posição das letras, corresponderiam a Yod-He-Waw-He (YHWH), o nome sagrado de Deus (Javé). Essa interpretação, entretanto, pertence ao campo de uma argumentação filosófica ou teológica e não deve ser apresentada como uma conclusão científica estabelecida.
 
 E essa distinção é importante para este livro. Não precisamos transformar uma interpretação em prova científica para perceber a força da pergunta.
 
@@ -108,9 +105,9 @@ Eu posso olhar para um circuito e enxergar resistores, capacitores e transistore
 
 É impossível separar completamente o desenvolvimento tecnológico das leis da natureza que permitem sua existência.
 
-* O ser humano não criou a matemática.
+* O ser humano não criou a matemática. 
 * Não criou as leis da física.
-* Não criou as propriedades da matéria.
+* Não criou as propriedades da matéria. 
 
 Apenas aprendemos a utilizá-las. E talvez seja justamente por isso que essa área do conhecimento possa nos conduzir a uma pergunta ainda maior:
 
