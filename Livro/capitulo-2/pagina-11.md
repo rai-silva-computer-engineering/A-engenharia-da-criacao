@@ -37,5 +37,4 @@ Quando o engenheiro pergunta de onde veio essa realidade, ele chega ao limite de
 Deus não ficou completamente oculto. Ele deixou um testemunho. E diante dele, a pergunta deixa de ser apenas *"Como tudo funciona?"* para se tornar: *"Quem é o Criador — e por que Ele criou?"*
 
 ---
-
- [Próxima Página (Página 12)](./pagina-12.md)
+ [pagina anterior Página (Página 10)](./pagina-10.md)                  [Próxima Página (Página 12)](./pagina-12.md)
