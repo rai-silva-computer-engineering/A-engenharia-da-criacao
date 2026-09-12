@@ -14,7 +14,7 @@ Paulo escreve em Romanos:
 
 Esse texto merece ser lido com atenção.
 
-Paulo está dizendo que existe algo sobre Deus que pode ser percebido a partir daquilo que Ele criou. Não significa que a natureza seja Deus. Não significa que uma equação matemática seja Deus. Não significa que o universo seja uma divindade.
+Paulo está dizendo que existe algo sobre Deus que pode ser percebido a partir daquilo que Ele criou. Não significa que a natureza seja Deus, que uma equação matemática seja Deus ou que o universo seja uma divindade.
 
 Significa que aquilo que foi criado carrega sinais de quem o criou.
 
@@ -26,7 +26,7 @@ Em outras palavras: o Deus invisível deixou marcas visíveis de Sua obra.
 
 É nesse ponto que a engenharia começa a conversar com a teologia.
 
-O engenheiro trabalha com uma realidade que já possui propriedades, comportamentos, relações e limites. Ele não inventa o elétron. Não cria a carga elétrica. Não determina que a resistência elétrica obedeça à relação expressa pela Lei de Ohm:
+O engenheiro trabalha com uma realidade que já possui propriedades, comportamentos, relações e limites. Ele não inventa o elétron, Não cria a carga elétrica,; Não determina que a resistência elétrica obedeça à relação expressa pela Lei de Ohm:
 $$V = R \cdot I$$
 
 Ele descobre essa relação, compreende seu comportamento e utiliza esse conhecimento para projetar sistemas.
