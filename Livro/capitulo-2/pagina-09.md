@@ -38,4 +38,4 @@ A ciência descreve como as coisas funcionam. A teologia pergunta por que existe
 
 Um engenheiro pode projetar um circuito para obedecer ou um processador para executar instruções. Mas Deus não criou seres humanos simplesmente para executar instruções como máquinas. Ele criou seres capazes de conhecer, amar, escolher, obedecer e também rejeitar. 
 
-[← Página anterior (Página 08)](./pagina-08.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página (Página 10) →](./pagina-10.md)
+[← Página anterior-08](./pagina-08.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página-10 →](./pagina-10.md)
