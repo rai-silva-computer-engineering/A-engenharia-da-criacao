@@ -39,6 +39,7 @@ Deus não ficou completamente oculto. Ele deixou um testemunho. E diante dele, a
 ---
 <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 20px;">
   <a href="./pagina-10.md">← Página anterior (Página 10)</a>
+  
   <a href="./pagina-12.md">Próxima Página (Página 12) →</a>
 </div>             
                                                                 
