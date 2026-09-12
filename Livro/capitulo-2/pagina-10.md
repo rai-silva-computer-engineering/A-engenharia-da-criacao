@@ -1,4 +1,4 @@
-[← Página anterior (Página 09)](./pagina-09.md)  &nbsp;&nbsp;|&nbsp;&nbsp;   [Próxima Página (Página 11) →](./pagina-11.md)
+[← Página anterior (Página 09)](./pagina-09.md) &nbsp;&nbsp;|&nbsp;&nbsp;   [Próxima Página (Página 11) →](./pagina-11.md)
 
 # A ENGENHARIA DA CRIAÇÃO
 ## Porque Deus não programa o amor?
