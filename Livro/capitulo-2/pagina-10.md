@@ -74,4 +74,4 @@ E então surge uma decisão: reconhecer ou rejeitar.
 
 ---
  
-[← Página anterior (Página 9)](./pagina-9.md) &nbsp;&nbsp;|&nbsp;&nbsp;   [Próxima Página (Página 11) →](./pagina-11.md)
+[← Página anterior (Página 09)](./pagina-09.md) &nbsp;&nbsp;|&nbsp;&nbsp;   [Próxima Página (Página 11) →](./pagina-11.md)
