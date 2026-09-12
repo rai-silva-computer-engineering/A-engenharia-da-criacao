@@ -24,4 +24,4 @@ A existência de Deus não depende da aprovação da ciência. Mas a pergunta qu
 
 ---
 
-[Próxima Página (Página 9)](./pagina-09.md)
+[← Página anterior (Página 07)](./pagina-07.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página (Página 09) →](./pagina-09.md)
