@@ -38,4 +38,4 @@ Deus não ficou completamente oculto. Ele deixou um testemunho. E diante dele, a
 
 ---
                                
-[← Página anterior (Página 10)](./pagina-10.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página (Página 12) →](./pagina-12.md)
+[← Página anterior (Página 10)](./pagina-10.md) &nbsp;&nbsp;|&nbsp;&nbsp;     [Próxima Página (Página 12) →](./pagina-12.md)
