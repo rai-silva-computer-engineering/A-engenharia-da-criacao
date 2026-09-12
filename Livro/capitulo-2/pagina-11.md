@@ -37,9 +37,5 @@ Quando o engenheiro pergunta de onde veio essa realidade, ele chega ao limite de
 Deus não ficou completamente oculto. Ele deixou um testemunho. E diante dele, a pergunta deixa de ser apenas *"Como tudo funciona?"* para se tornar: *"Quem é o Criador — e por que Ele criou?"*
 
 ---
-<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 20px;">
-  <a href="./pagina-10.md">← Página anterior (Página 10)</a>
-  
-  <a href="./pagina-12.md">Próxima Página (Página 12) →</a>
-</div>             
-                                                                
+                               
+[← Página anterior (Página 10)](./pagina-10.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página (Página 12) →](./pagina-12.md)
