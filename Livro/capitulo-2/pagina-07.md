@@ -1,3 +1,5 @@
+[← Página anterior-06](./pagina-06.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página-08 →](./pagina-08.md)
+
 # A ENGENHARIA DA CRIAÇÃO
 ## Porque Deus não programa o amor?
 
@@ -43,4 +45,5 @@ A física descreve o comportamento das partes, a matemática expressa suas rela�
 
 ---
 
-[Próxima Página (Página 8)](./pagina-08.md)
+[← Página anterior-06](./pagina-06.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página-08 →](./pagina-08.md)
+
