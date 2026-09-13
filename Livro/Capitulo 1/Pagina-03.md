@@ -20,7 +20,7 @@ Deus não nos concebeu como autômatos. Ao dotar Suas criaturas de faculdades pa
 O ser criado possuía a prerrogativa estrutural de preservar a harmonia ou de alterar o curso dessa relação.
 
 Essa agência moral, contudo, não opera no vazio. Ela está inserida em um palco físico minuciosamente estruturado, regido por leis e regularidades invioláveis. Para compreender como a liberdade habita um espaço onde a matéria cumpre ordens com exatidão matemática — operando por meio de componentes, circuitos e regras precisas —, precisamos examinar mais de perto a própria arquitetura desse sistema físico.
----
+
 [Avançar para a Página 4](./Pagina-04.md)
 
 </div>
