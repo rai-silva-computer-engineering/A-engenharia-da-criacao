@@ -5,8 +5,7 @@
 ## Porque Deus não programa o amor?
 
 ### Capítulo 2 — Página 12
-
-Quem é Deus?
+1° Quem é Deus?
 
 Essa talvez seja uma das perguntas mais difíceis que um ser humano pode fazer. Quando falamos em Deus, de que estamos falando? De uma força? De uma energia? De uma inteligência? De uma consciência? De uma pessoa? Ou simplesmente de uma palavra que inventamos para explicar aquilo que ainda não conseguimos compreender?
 
