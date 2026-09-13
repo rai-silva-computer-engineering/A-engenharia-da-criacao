@@ -5,9 +5,6 @@
 ## Porque Deus não programa o amor?
 
 ### Capítulo 2 — Página 12
-#### Mas, Afinal, Quem é Deus?
-
-Antes de perguntar quem criou Deus, precisamos fazer uma pergunta ainda mais fundamental:
 
 Quem é Deus?
 
