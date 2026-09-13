@@ -11,16 +11,16 @@ Essa talvez seja uma das perguntas mais difíceis que um ser humano pode fazer. 
 
 Se Deus existe, Ele não pode ser apenas uma peça colocada no início da explicação para preencher aquilo que a ciência ainda não explicou. Dizer “Deus fez isso” não responde, por si só, quem Deus é.
 
-Por isso, quero começar de um lugar mais simples. A palavra Deus não deveria significar apenas “aquele que criou o universo”. Se Ele criou o universo, então precisamos perguntar que tipo de Criador Ele é.
+ A palavra Deus não deveria significar apenas “aquele que criou o universo”. Se Ele criou o universo, então precisamos perguntar que tipo de Criador Ele é.
 
-Um engenheiro projeta uma máquina. Um programador escreve um sistema. Um arquiteto concebe uma estrutura. Em todos esses casos, percebemos algo interessante: a obra revela alguma coisa sobre aquele que a projetou. Mas Deus não seria apenas o projetista de alguma coisa.
+Sendo um tanto redundante: o engenheiro projeta a máquina, o programador escreve o sistema e o arquiteto concebe a estrutura. Já vimos isso. Mas, em todas essas criações, percebemos algo interessante: a obra sempre revela alguma coisa sobre quem a projetou. Acontece que Deus não seria apenas o projetista de alguma coisa
 
-Se Deus é realmente o Criador, estamos falando de alguém — ou de algo — que estaria na origem de tudo aquilo que conhecemos: matéria, energia, espaço, tempo, vida, consciência e as próprias leis que descrevem o funcionamento do universo. E isso muda completamente a pergunta. Não estamos mais procurando simplesmente uma causa; estamos procurando compreender a realidade que poderia estar por trás de todas as outras realidades.
+Se Deus é realmente o Criador, estamos falando de alguém — ou de algo — que estaria na origem de tudo aquilo que conhecemos e ja exploramos anteriormente: matéria, energia, espaço, tempo, vida, consciência e as próprias leis que descrevem o funcionamento do universo. E isso muda completamente a pergunta. Não estamos mais procurando simplesmente uma causa; estamos procurando compreender a realidade que poderia estar por trás de todas as outras realidades.
 
 É justamente aqui que a ideia de Deus começa a ficar difícil. Porque, se Deus é o Criador de tudo, então Ele não poderia ser simplesmente mais uma criatura dentro daquilo que criou.
 
 E é por isso que a teologia cristã tradicional fala de Deus como eterno. Mas o que significa ser eterno? Não significa simplesmente existir durante um tempo infinito, como alguém que viveu infinitamente muitos anos. Significa não ter começado a existir.
-
+A Bíblia nos diz que nós também teremos a eternidade — afinal, "esta é a promessa que ele nos fez: a vida eterna" (1 João 2:25). Só que há uma diferença fundamental: nós, como criaturas, tivemos um começo. Nós começamos a existir em um ponto específico do tempo, mesmo que nossa existência se estenda para sempre no futuro. Já a eternidade de Deus não tem margem, nem antes nem depois; Ele simplesmente é. sem nunca ter precisado de um ponto de partida.
 E aqui surge naturalmente a pergunta: *"Mas como alguém pode não ter começado?"*
 
 Eu não quero responder essa pergunta rapidamente. Porque dizer “Deus é eterno” não faz o mistério desaparecer. Na verdade, torna a pergunta ainda maior: se Deus não começou, de onde vem Sua existência? E, se Ele não foi criado, por que Ele existe? E, se precisamos admitir que alguma realidade simplesmente existe sem ter sido criada, por que essa realidade deveria ser Deus?
@@ -39,6 +39,8 @@ E uma das primeiras respostas aparece em uma cena extraordinariamente simples. M
 > **— Êxodo 3:14**
 
 É uma resposta curta, mas não é uma resposta pequena. Deus não se apresenta como alguém que recebeu sua existência de outro ser. Não diz que começou em determinado momento. Não aponta para algo anterior a Ele como origem de Sua existência. Ele simplesmente diz: *"EU SOU."*
+Sou oque?  Como declara em Apocalipse 1:8: "Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que há de vir, o Todo-Poderoso." 
+Ele é a própria origem de tudo, sem nunca ter tido uma origem para si mesmo.
 
 ---
 
