@@ -1,3 +1,4 @@
+[← Página anterior-11](./pagina-11.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-13 →](./pagina-13.md)
 
 
 # A ENGENHARIA DA CRIAÇÃO
@@ -45,4 +46,4 @@ E uma das primeiras respostas aparece em uma cena extraordinariamente simples. M
 
 ---
 
-[Página Anterior-11](./pagina-11.md) | [Próxima Página-13](./pagina-13.md)
+[← Página anterior-11](./pagina-11.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-13 →](./pagina-13.md)
