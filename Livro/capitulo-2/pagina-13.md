@@ -4,11 +4,10 @@
 ## Porque Deus não programa o amor?
 
 ### Capítulo 2 — Página 13
-#### Mas, Afinal, Quem é Deus? (Continuação)
 
 Mas quem é esse “EU SOU”?
 
-É aqui que podemos fazer uma pequena pausa e recorrer justamente a uma linguagem familiar para quem pensa em engenharia, computação e eletrônica. Não para transformar Deus em uma equação — Deus não é uma equação —, mas porque uma equação pode nos ajudar a perceber uma diferença importante entre descrever o comportamento de alguma coisa e explicar por que essa coisa existe.
+É aqui que podemos fazer uma pequena pausa e recorrer justamente a uma linguagem familiar para quem pensa em engenharia: computação, ou qualquer outra. Não para transformar Deus em uma equação  —, mas porque uma equação pode nos ajudar a perceber uma diferença importante entre descrever o comportamento de alguma coisa e explicar por que essa coisa existe.
 
 Considere, por exemplo, um circuito RLC em série, formado por um resistor, um indutor e um capacitor. Pela Lei das Malhas de Kirchhoff, a tensão total aplicada ao circuito é igual à soma das tensões em cada componente:
 
@@ -55,15 +54,13 @@ E a corrente resultante é:
 
 $$i(t) = -\omega_0Q_0\sin(\omega_0t + \phi)$$
 
-Tudo isso pode parecer apenas matemática e eletrônica. Mas existe uma pergunta interessante escondida nesse exemplo.
+Tudo isso pode parecer apenas matemática e computação/eletrônica. Mas existe uma pergunta interessante escondida nesse exemplo.
 
-Nós conseguimos descrever com precisão o comportamento do circuito. Conseguimos calcular sua resposta, sua frequência natural, sua corrente e sua carga. Mas a equação não criou o resistor. Não criou o indutor. Não criou o capacitor. Não criou as propriedades elétricas desses componentes. E, muito menos, criou as leis físicas que permitem que essas relações matemáticas descrevam o comportamento do circuito.
+Nós conseguimos descrever com precisão o comportamento do circuito. Conseguimos calcular sua resposta, sua frequência natural, sua corrente e sua carga. Mas de novo a equação não criou o resistor. Não criou o indutor. Não criou o capacitor. Não criou as propriedades elétricas desses componentes. E, muito menos, criou as leis físicas que permitem que essas relações matemáticas descrevam o comportamento do circuito.
 
 Mesmo quando abstraímos o circuito em uma equação, essa abstração depende de componentes físicos, propriedades mensuráveis, condições iniciais e leis que não foram criadas pela própria equação. A equação descreve uma realidade que já existe.
 
-E essa distinção é importante. Porque podemos avançar um nível: a física pode descrever o comportamento do universo, a matemática pode descrever suas relações, a computação pode processar informação e a engenharia pode projetar sistemas. Mas nenhuma dessas descrições, por si só, responde à pergunta mais profunda: **por que existe alguma coisa para ser descrita?**
-
-É nesse ponto que a frase volta a ganhar peso: *"EU SOU."*
+E essa distinção é importante. É nesse ponto que a frase volta a ganhar peso: *"EU SOU."*
 
 Se a Bíblia estiver certa, Deus não está dizendo apenas que possui determinadas características dentro de uma realidade maior. Ele está se apresentando como aquele que simplesmente é.
 
