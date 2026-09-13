@@ -15,19 +15,23 @@ Essa sequência revela algo crucial: funcionamento e propósito não se confunde
 
 Essa lógica reverbera na criação. A Bíblia não descreve o cosmos como um aglomerado caótico, mas como um arranjo onde há distinção, limites, ciclos e finalidade. A cada etapa criativa relatada em Gênesis, há uma avaliação divina de aprovação. Não se trata de uma obra técnica humana, mas reconhecemos de imediato o seu equivalente estrutural: ordem.
 
-Diante de um sistema desconhecido, o técnico busca decifrar o mapa das conexões — onde entram os sinais, onde reside o processamento, para onde flui o resultado. Contudo, esbarramos em nossa limitação fundamental: nós fatiamos a realidade para estudá-la em partes, enquanto o Criador abrange a totalidade. Como expressa o Salmo 139 diante da vastidão divina: *"Tal conhecimento é maravilhoso demais para mim; é sobremodo elevado, não o posso atingir"*.
+Diante de um sistema desconhecido, o técnico busca decifrar o mapa das conexões — onde entram os sinais, onde reside o processamento, para onde flui o resultado. Contudo, esbarramos em nossa limitação fundamental: nós fatiamos a realidade para estudá-la em partes, enquanto o Criador abrange a totalidade. Como expressa o Salmo 139 diante da vastidão divina:
+
+> "Tal conhecimento é maravilhoso demais para mim; é sobremodo elevado, não o posso atingir."
+> 
+> — **Salmo 139:6**
 
 Existe um abismo intransponível entre investigar uma obra e originá-la. Não buscamos desmontar o universo como quem rastreia uma placa de circuito impresso em busca de um segredo mecânico, mas usamos a nossa prática técnica como analogia limitada para refletir sobre a existência.
 
-E é aí que o abismo conceitual se aprofunda. 
+E é aí que o abismo conceitual se aprofunda.
 
-Um sistema projetado tende à previsibilidade. O hardware não hesita em executar uma operação lógica; o software não questiona o código pela manhã; nenhum sistema embarcado desenvolve dilemas morais sobre o que foi programado para processar. Eles cumprem o determinismo de sua arquitetura.
+Na arquitetura de sistemas, sabemos que a qualidade de uma conexão interativa depende do protocolo estabelecido. Um canal rígido e unidirecional impõe comandos absolutos, onde o receptor apenas absorve o fluxo sem alternativa. Mas, quando buscamos reciprocidade, a autonomia das pontas se torna indispensável para que haja troca real, e não mera repetição de eco.
 
-O ser humano, contudo, escapa a essa caixa. Nós pensamos, desejamos, obedecemos, contestamos e podemos inclusive agir contra aquilo que sabemos ser verdadeiro. 
+Transpondo essa lógica para a origem da vida, o Criador não buscou um eco solitário, mas uma relação genuína. E é exatamente aqui que a analogia atinge seu ponto mais crítico: para que houvesse verdadeira reciprocidade, o sistema humano não poderia ser mantido em um loop fechado de execução cega. Era preciso abrir a interface.
 
-Nesse ponto, a comparação técnica atinge seu limite mais fascinante: Deus não optou por automatizar robôs que apenas funcionam. Ele instaurou agentes capazes de escolher. E, ao inserir a livre escolha no projeto, abriu-se o flanco para a vulnerabilidade suprema — a capacidade de a criatura dizer "não".
+Mas toda interface aberta que permite a entrada de uma resposta voluntária carrega consigo o risco inerente de uma falha de conexão. Ao dotar o ser humano de arbítrio para responder ao seu Arquiteto, abriu-se o flanco para a vulnerabilidade suprema — a capacidade de a criatura recusar o sinal da fonte.
 
-O maior drama da história não decorreu de um curto-circuito imprevisto, mas de uma decisão deliberada. Antes de investigarmos as consequências da rebeldia, precisamos encarar a pergunta estrutural: por que o Criador nos dotou de arbítrio, sabendo o custo que isso comportava?
+O maior drama da história não decorreu de um desvio imprevisto, mas de uma decisão deliberada. Antes de investigarmos as consequências dessa ruptura, precisamos encarar a pergunta estrutural: por que o Criador nos dotou de arbítrio, sabendo o custo que isso comportava?
 
 ---
 <div align="center">
