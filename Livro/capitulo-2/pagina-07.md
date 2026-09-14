@@ -5,9 +5,7 @@
 
 ### Capítulo 2 — Página 7
 
-
 ---
-# Capítulo 2 — Página 7
 
 E essa inteligibilidade encontra sua expressão física mais fascinante na forma como organizamos a matéria. Se existe um componente que representa de maneira quase perfeita a passagem entre o mundo físico e o mundo da computação, esse componente é o transistor.
 
@@ -30,7 +28,9 @@ $$Y = A \cdot B$$
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-Nenhum átomo de silício entende o significado de um bit ou conhece essa tabela. O que muda de um nível para o outro não é a lei física — a carga e o eletromagnetismo continuam os mesmos —, mas a organização.
+Fisicamente, essa operação não acontece no papel, mas é realizada conectando transistores de tal forma que a corrente elétrica só alcance a saída ($Y$) se ambas as entradas ($A$ e $B$) receberem tensão simultaneamente. O *hardware* executa a matemática à risca.
+
+Apesar de operar com essa precisão, nenhum átomo de silício entende o significado de um bit ou conhece essa tabela. O que muda de um nível para o outro não é a lei física — a carga e o eletromagnetismo continuam os mesmos —, mas a organização.
 
 No nível de sistema, o raciocínio foca puramente nas relações operacionais:
 
@@ -40,7 +40,9 @@ No nível de sistema, o raciocínio foca puramente nas relações operacionais:
 
 O computador moderno é a expansão dessa organização em larga escala: fios, portas, registradores, memórias e barramentos formando uma estrutura coordenada.
 
-Quando avançamos dessa arquitetura física para a origem de tudo o que rege essas propriedades, a reflexão ultrapassa a técnica. A Escritura aponta para essa realidade anterior:
+Quando avançamos dessa arquitetura física para a origem de tudo o que rege essas propriedades, a reflexão ultrapassa a técnica e exige uma pergunta inevitável: se o engenheiro humano apenas organiza o que já existe, quem criou a matéria, a energia e as leis fundamentais que utilizamos para construir?
+
+A Escritura responde a essa pergunta apontando para o verdadeiro ponto de partida:
 
 > "Todas as coisas foram feitas por intermédio dele, e, sem ele, nada do que foi feito se fez."
 > 
