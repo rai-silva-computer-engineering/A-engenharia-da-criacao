@@ -1,3 +1,7 @@
+# A ENGENHARIA DA CRIAÇÃO
+## Porque Deus não programa o amor?
+
+
 # Capítulo 2 — Página 14
 
 Diante de uma macro-engenharia tão inquestionável, onde cada constante física e proporção matemática elimina a possibilidade do acaso, a pergunta que ecoa é inevitável: quem é o Arquiteto por trás de tamanha exatidão? Diante de um universo que fala através de leis tão perfeitas, a conclusão lógica é que, para conhecê-Lo, talvez precisemos ouvi-Lo.
