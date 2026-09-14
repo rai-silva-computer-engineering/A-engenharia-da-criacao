@@ -68,6 +68,5 @@ Ele está declarando o exato oposto de um sistema dependente. Ele não é um cir
 
 O "EU SOU" é a Realidade Primordial. Ele é a Fonte não causada, a Existência Autossustentada que não depende de nada, mas sustenta tudo o que a física e a matemática tentam descrever.
 
-A investigação nos trouxe até a borda da máquina. Mas a resposta para quem sustenta a máquina não está em uma fórmula — e agora precisamos dar o próximo passo para ouvir o que o próprio Criador tem a dizer.
 
 [Página Anterior (Página 12)](./pagina-12.md)
