@@ -5,40 +5,34 @@
 ## Porque Deus não programa o amor?
 
 ### Capítulo 2 — Página 9
-#### A Criação Diante dos Olhos de um Engenheiro (Continuação)
+# 
 
-### O Planeta como Sistema Físico
+Considere a Terra. Mais do que estar simplesmente solta no espaço, ela é o exemplo supremo dessa ordem intencional. É um sistema físico extremamente complexo, possuindo órbita, gravidade, rotação, inclinação de eixo, atmosfera e água, tudo operando sob o rigor implacável das leis da física.
 
-Considere a Terra. Mais do que estar simplesmente no espaço, ela é um sistema físico extremamente complexo. Possui órbita, gravidade, rotação, inclinação do eixo, atmosfera e água, obedecendo às leis da física.
+Podemos descrever a mecânica desse sistema com equações fundamentais. A Lei da Gravitação Universal, por exemplo, descreve o equilíbrio que nos mantém em órbita:
 
-Podemos começar com uma equação simples:
-$$F = G\frac{Mm}{r^2}$$
-A Lei da Gravitação Universal, relacionando a força gravitacional $F$, as massas $M$ e $m$, a distância $r$ e a constante $G$.
+$$F = G \frac{M \cdot m}{r^2}$$
 
-A velocidade orbital também pode ser aproximada por:
+(relacionando a força gravitacional $F$, as massas $M$ e $m$, a distância $r$ e a constante $G$).
+
+A nossa velocidade orbital também obedece a uma métrica estrita:
+
 $$v \approx \sqrt{\frac{GM}{r}}$$
 
-Não fomos nós que inventamos a gravidade ou estabelecemos a relação entre massa, distância e força. Nós descobrimos.
+Tudo está perfeitamente amarrado. E se as condições fossem minimamente diferentes? A existência da vida não depende de uma única variável, mas da interação simultânea de muitas condições críveis. A energia térmica e luminosa que mantém esse sistema vivo, por exemplo, diminui com o quadrado da distância:
 
-E se as condições fossem diferentes? A existência da vida depende de condições físicas e químicas. A habitabilidade não depende de uma única variável, mas da interação de muitas condições.
-
-A energia recebida de uma fonte aproximadamente esférica diminui com o quadrado da distância:
 $$I = \frac{P}{4\pi r^2}$$
-onde:
-* $I$ é a intensidade da radiação;
-* $P$ é a potência emitida;
-* $r$ é a distância da fonte.
 
-Se $r$ aumenta, $I$ diminui. Se $r$ diminui, $I$ aumenta. Não é uma opinião; é uma relação física. O engenheiro entende que um sistema depende das relações entre as peças. Mas quem estabeleceu as relações?
+(Onde $I$ é a intensidade da radiação, $P$ é a potência emitida e $r$ é a distância da fonte solar).
 
-### A Ordem que Aponta para a Origem
+Se a distância $r$ aumenta um pouco, $I$ diminui drasticamente e a Terra congela. Se $r$ diminui, $I$ aumenta e a superfície queima. Não é uma opinião; é uma relação física incontestável.
 
-Se encontro uma relação matemática ou lei física na natureza, não digo que a matemática criou a natureza ou que a equação criou a matéria. Nós descobrimos propriedades que já estavam lá. Isso produz a pergunta: por que a realidade é inteligível matematicamente? Por que podemos escrever equações que descrevem o comportamento da matéria?
+O engenheiro entende que a estabilidade de um sistema depende de tolerâncias rigorosíssimas entre as suas peças. E quando olhamos para a Terra, vemos o maior de todos os sistemas em funcionamento contínuo, estabilizado por regras tão precisas que podemos calculá-las.
 
-A criação em Gênesis não é apenas matéria aparecendo; Deus estabelece distinções, limites, ciclos e ordem (luz e trevas, dia e noite, céus e terra, vegetação, astros, animais, ser humano). Existe sequência, organização e propósito.
+Mas é exatamente o nível absurdo desse controle sobre a matéria que nos devolve à pergunta central desta obra.
 
-A ciência descreve como as coisas funcionam. A teologia pergunta por que existe uma realidade assim. 
+Se o universo foi arquitetado com tamanha precisão gravitacional e termodinâmica; se planetas, estrelas e elétrons obedecem cegamente a essas equações, por que a coroa da criação não foi programada com a mesma obediência mecânica?
 
-Um engenheiro pode projetar um circuito para obedecer ou um processador para executar instruções. Mas Deus não criou seres humanos simplesmente para executar instruções como máquinas. Ele criou seres capazes de conhecer, amar, escolher, obedecer e também rejeitar. 
+Um engenheiro projeta um processador para nunca desobedecer a uma instrução e para não ter vontade própria. Mas Deus não criou seres humanos simplesmente para executar rotinas. Ele criou seres capazes de conhecer, amar, escolher, obedecer e, consequentemente, possuindo a assustadora capacidade de rejeitar o próprio sistema.
 
 [← Página anterior-08](./pagina-08.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Próxima Página-10 →](./pagina-10.md)
