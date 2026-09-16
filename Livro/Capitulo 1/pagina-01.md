@@ -1,9 +1,13 @@
-← Página anterior-introducao   |   Próxima Página-2 →
+<div align="center">
 
-A ENGENHARIA DA CRIAÇÃO
-Porque Deus não programa o amor?
-Capítulo 1 — Página 1
-Capítulo 1 — Página 1
+# A ENGENHARIA DA CRIAÇÃO
+### *Porque Deus não programa o amor?*
+
+## Capítulo 1 — Página 4
+
+</div>
+
+---
 Antes de existir qualquer circuito construído pelo ser humano, já existia a eletricidade. Antes de existirem microprocessadores ou sistemas digitais, já vigoravam as leis que permitiam à matéria comportar-se de maneira ordenada. Antes de qualquer desenho técnico, a gravidade, o eletromagnetismo e a termodinâmica já operavam em um silêncio absoluto.
 
 A natureza obedece. A matéria não questiona a tensão que a atravessa. Um elétron não escolhe o seu caminho; ele segue rigorosamente a trilha de menor resistência.
