@@ -1,5 +1,5 @@
 <div align="center">
-
+[← Página anterior-introducao](./pagina-introducao.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-2 →](./pagina-2.md)
 # A ENGENHARIA DA CRIAÇÃO
 ### *Porque Deus não programa o amor?*
 
@@ -37,5 +37,5 @@ Mas, para Deus, a perda do controle mecanicista sobre as decisões humanas não 
 Ao contrário de um elétron, que não pode escolher se opor ao campo magnético, o ser humano foi inserido no sistema com a capacidade assustadora de dizer *não* ao seu próprio engenheiro e arquiteto.
 <div align="center">
 
-[Avançar para a Página 2](Pagina-02.md)
+[← Página anterior-introducao](./pagina-introducao.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-2 →](./pagina-2.md)
 </div>
