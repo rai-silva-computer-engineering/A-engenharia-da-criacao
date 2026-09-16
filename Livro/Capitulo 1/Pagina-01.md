@@ -1,5 +1,6 @@
-<div align="center">
 [← Página anterior-introducao](./pagina-introducao.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-2 →](./pagina-2.md)
+<div align="center">
+
 # A ENGENHARIA DA CRIAÇÃO
 ### *Porque Deus não programa o amor?*
 
