@@ -1,3 +1,6 @@
+# A ENGENHARIA DA CRIAÇÃO
+## Porque Deus não programa o amor?
+
 # Capítulo 2 — Página 15
 
 Foi movida por essa orfandade teológica que a humanidade tentou replicar a ordem cósmica na Terra através de suas próprias "montanhas artificiais". Se o homem já não tinha acesso direto ao Arquiteto, ele tentaria imitar a perfeição de Sua obra. Após ensaios iniciais de estruturação social — como os fragmentos deixados pelo rei **Urukagina**, por volta de **2350 a.C.** —, essa busca por proporção e controle alcançou uma escala verdadeiramente monumental na **Terceira Dinastia de Ur**, entre **2112 e 2095 a.C.**
