@@ -1,3 +1,4 @@
+[← Página anterior-12](./pagina-12.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-14 →](./pagina-14.md)
 
 
 # A ENGENHARIA DA CRIAÇÃO
@@ -69,4 +70,4 @@ Ele está declarando o exato oposto de um sistema dependente. Ele não é um cir
 O "EU SOU" é a Realidade Primordial. Ele é a Fonte não causada, a Existência Autossustentada que não depende de nada, mas sustenta tudo o que a física e a matemática tentam descrever.
 
 
-[Página Anterior (Página 12)](./pagina-12.md)
+[← Página anterior-12](./pagina-12.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-14 →](./pagina-14.md)
