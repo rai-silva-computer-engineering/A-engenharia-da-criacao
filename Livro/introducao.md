@@ -1,7 +1,12 @@
-##A ENGENHARIA DA CRIAÇÃO
-##Porque Deus não programa o amor?
+<div align="center">
 
-#INTRODUÇÃO
+# A ENGENHARIA DA CRIAÇÃO
+### *Porque Deus não programa o amor?*
+
+## Introdução
+
+</div>
+
 Quando a engenharia encontra a teologia
 Desde muito cedo, o ser humano procura compreender o mundo que o cerca. Observamos os céus, estudamos a matéria, investigamos a vida e criamos ferramentas para compreender e transformar aquilo que está ao nosso redor.
 
