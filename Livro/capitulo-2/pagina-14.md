@@ -1,3 +1,5 @@
+[← Página anterior-13](./pagina-13.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-14 →](./pagina-15.md)
+
 # A ENGENHARIA DA CRIAÇÃO
 ## Porque Deus não programa o amor?
 
@@ -18,3 +20,5 @@ Contudo, se os sumérios registraram essas histórias muito antes de Moisés com
 Quando a memória humana se fragmentou e se afastou do Criador, as antigas civilizações caíram no politeísmo. Em todos os relatos extrabíblicos — sem exceção —, os deuses são apresentados como "filhos do universo". Eles nascem do caos cósmico, lutam entre si, dependem da matéria, sangram e se submetem às forças da natureza. Eles são meras peças da máquina. A revelação bíblica, de forma única e revolucionária, é o único registro monoteísta que coloca a divindade antes do universo. O **"EU SOU"** não é um produto da criação; Ele é a Causa Primária inescrutável que a desenhou do lado de fora.
 
 O homem antigo sabia de onde veio. Ele carregava a memória do Éden e do Dilúvio. Mas, ao corromper a identidade do Arquiteto, passou a adorar as engrenagens. E foi impulsionada por essa orfandade teológica que a civilização decidiu erguer suas próprias montanhas artificiais de tijolo e betume, tentando alcançar os céus com as próprias mãos.
+
+[← Página anterior-13](./pagina-13.md) &nbsp;&nbsp;|&nbsp;&nbsp;    [Próxima Página-15 →](./pagina-15.md)
