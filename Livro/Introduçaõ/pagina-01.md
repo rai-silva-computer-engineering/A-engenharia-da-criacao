@@ -1,4 +1,4 @@
-[proxima-pagina](./pagina-02.md)
+| [Próxima página →](./pagina-03.md) |
 
 # Quando A engenharia encontra a teologia
 
@@ -21,4 +21,4 @@ de uma arquitetura complexa.
 Um sistema eletrônico cumpre sua função porque obedece a relações
 físicas e matemáticas rigorosas.
 
-[proxima-pagina](./pagina-02.md)
+| [Próxima página →](./pagina-03.md) |
