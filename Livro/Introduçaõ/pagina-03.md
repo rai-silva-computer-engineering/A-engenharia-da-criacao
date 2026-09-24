@@ -1,9 +1,9 @@
 | [← Página anterior](./pagina-02.md) | [Próxima página →](./pagina-04.md) |
 |:---|---:|
 
-# QUANDO A ENGENHARIA ENCONTRA A TEOLOGIA
-## Introdução-página 3
+# Introdução-página 3
 
+## QUANDO A ENGENHARIA ENCONTRA A TEOLOGIA
 Foi exatamente essa tensão entre projeto, ordem e liberdade que desencadeou minha própria crise. É reconfortante, porém intelectualmente frágil, professar a crença em um Criador sem jamais submeter essa crença ao escrutínio da dúvida. É muito fácil ser um cristão que aceita a existência de Deus motivado pelo mero hábito ou pelo medo de questionar.
 
 Entre os anos de 2018 e 2019, minha mente investigativa exigiu mais do que o conforto de uma fé não examinada. Comecei a documentar inquietações que pareciam não ter solução: Deus realmente existe ou estou apenas condicionado a crer Nele? De onde Ele veio? Como Ele opera? E, o mais perturbador: se há um Arquiteto perfeito, por que o Seu sistema permite a anomalia das coisas ruins, do mal e do sofrimento?
