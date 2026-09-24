@@ -2,10 +2,7 @@
 | [← Página anterior](./pagina-01.md)                          | [Próxima página →](./pagina-03.md) |
 |:--------------------------------------------------|----------------------------------------------:|
 
-# A ENGENHARIA DA CRIAÇÃO
-# Porque Deus não programa o amor?
-
-## Quando a engenharia encontra a teologia
+QUANDO A ENGENHARIA ENCONTRA A TEOLOGIA
 
 # Introdução página 02
 
