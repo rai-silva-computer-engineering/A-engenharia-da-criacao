@@ -1,4 +1,4 @@
-| [← Página anterior](../pagina-03.md) | [Próxima página →](./pagina-05.md) |
+| [← Página anterior](../Introducao/pagina-03.md) | [Próxima página →](./pagina-05.md) |
 |:---|---:|
 
 # Capítulo-01, pagina-04
@@ -48,6 +48,6 @@ frequências invisíveis sem um arranjo esquemático projetado para essa exata
 função, os elementos químicos da Terra primitiva não poderiam gerar vida sem
 um projeto de hardware.
 
-| [← Página anterior](../pagina-03.md) | [Próxima página →](./pagina-05.md) |
+| [← Página anterior](../Introducao/pagina-03.md) | [Próxima página →](./pagina-05.md) |
 |:---|---:|
 
