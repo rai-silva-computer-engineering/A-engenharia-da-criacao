@@ -1,4 +1,4 @@
-| [← Página anterior](./pagina-02.md) | [Próxima página →](../pagina-04.md) |
+| [← Página anterior](./pagina-02.md) | [Próxima página →](../Capítulo-01-pagina-04.md) |
 |:---|---:|
 
 # Introdução-página 3
