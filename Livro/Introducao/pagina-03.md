@@ -1,6 +1,5 @@
-| [← Página anterior](./pagina-02.md) | [Próxima página →](../Capitulo-01-pagina-04.md) |
+| [← Página anterior](./pagina-02.md) | [Próxima página →](../capitulo-01/pagina-04.md) |
 |:---|---:|
-
 # Introdução-página 3
 
 ## QUANDO A ENGENHARIA ENCONTRA A TEOLOGIA
@@ -18,5 +17,5 @@ As perguntas sem resposta haviam me afastado, mas a irrefutável complexidade do
 
 Retornei à convicção cristã, não ao estado anterior de aceitação passiva, mas com a certeza de que intelecto e fé são linguagens complementares. Foi dessa longa jornada, unindo o menino curioso que desmontava rádios em uma fazenda ao acadêmico apaixonado pela arquitetura dos sistemas, que nasceu *A Engenharia da Criação: Por que Deus não programou o amor?*
 
-| [← Página anterior](./pagina-02.md) | [Próxima página →](../pagina-04.md) |
+| [← Página anterior](./pagina-02.md) | [Próxima página →](../capitulo-01/pagina-04.md) |
 |:---|---:|
