@@ -17,3 +17,5 @@ A resposta reside na distinção irreconciliável entre um código fechado e uma
 O determinismo algorítmico impossibilita a agência moral. O Supremo Engenheiro não programa o amor, pois o amor programado é apenas uma simulação. Ele cria seres autônomos e, ao implementar o livre-arbítrio, aceita o risco inerente a essa liberdade.
 
 | [← Página anterior](./pagina-01.md)                          | [Próxima página →](./pagina-03.md) |
+|:--------------------------------------------------|----------------------------------------------:|
+
