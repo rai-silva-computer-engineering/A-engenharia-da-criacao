@@ -12,7 +12,7 @@ fundamental: como isso funciona? Quando um engenheiro observa uma
 máquina, um circuito ou um sistema, seu objetivo é decodificar a sua
 arquitetura.
 
-Ele analisa os componentes, mapeia as conexões, avalia as limitações
+Ele análisa os componentes, mapeia as conexões, avalia as limitações
 físicas e busca compreender o propósito para o qual aquele sistema foi
 projetado.
 
