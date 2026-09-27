@@ -3,7 +3,7 @@
 
 # CAPÍTULO 01 — PÁGINA 07
 
-## O CÓDIGO-FONTE DO EQUILÍBRIO
+## A ELETÔNICA DA VIDA
 
 Se a biologia celular nos obriga a reconhecer o Engenheiro que roteou o
 circuito da vida, a astrofísica nos força a olhar para o ambiente onde essa
