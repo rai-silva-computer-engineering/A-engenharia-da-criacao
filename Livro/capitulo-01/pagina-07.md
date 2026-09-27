@@ -17,8 +17,6 @@ Imagine atirar uma bola de canhão do topo de uma montanha. Quanto mais forte o 
 
 É exatamente essa ideia que ajuda a compreender uma órbita: a gravidade do Sol curva continuamente o movimento da Terra em sua direção, enquanto sua velocidade tangencial faz com que ela continue avançando ao redor do Sol, em vez de simplesmente cair diretamente sobre ele.
 
-## O Código-Fonte do Equilíbrio
-
 A física clássica não depende de suposições arbitrárias; ela descreve o movimento por meio de relações matemáticas rigorosas. Para uma órbita circular idealizada, a atração gravitacional do Sol fornece exatamente a força centrípeta necessária para manter a Terra em sua trajetória.
 
 A Força Gravitacional ($F_g$) é:
