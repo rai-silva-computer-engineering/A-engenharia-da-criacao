@@ -5,7 +5,7 @@
 
 ## A ELETÔNICA DA VIDA
 
-# O Código-Fonte do Equilíbrio
+
 
 Se a biologia celular nos obriga a reconhecer o Engenheiro que roteou o circuito da vida, a astrofísica nos força a olhar para o ambiente onde essa "placa-mãe" foi instalada.
 
