@@ -6,7 +6,6 @@
 
 ## A ELETRÔNICA DA VIDA
 
-### O Fator de Escala: A Fonte de Alimentação do Sistema
 
 Ao compreendermos que o Universo opera como um sistema regido por leis invisíveis e calculáveis, precisamos voltar nossa atenção para os componentes físicos desse projeto. Todo sistema eletrônico complexo exige uma fonte de alimentação compatível com sua carga. No nosso sistema planetário, a escala dessa fonte desafia a intuição humana.
 
