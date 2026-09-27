@@ -5,7 +5,6 @@
 
 ## A ELETRÔNICA DA VIDA
 
-## A Terra Suspensa Sobre o Nada
 
 Em escala planetária, o "baixo" é o centro da Terra. Em escala estelar, o "baixo" supremo é o centro do Sol, o fundo do poço gravitacional que concentra aproximadamente **99,86% de toda a massa do Sistema Solar**.
 
