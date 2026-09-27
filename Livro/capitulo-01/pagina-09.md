@@ -1,7 +1,7 @@
 | [← Página anterior](./pagina-08.md) | [Próxima página →](./pagina-10.md) |
 | :---------------------------------- | ---------------------------------: |
 
-# CAPITULO 01-PÁGINA 09
+# CAPITULO 01 - PÁGINA 09
 
 ## A ELETRÔNICA DA VIDA
 
