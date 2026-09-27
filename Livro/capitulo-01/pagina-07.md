@@ -1,8 +1,4 @@
-Entendi. O problema é que o GitHub está mostrando a **sintaxe matemática do LaTeX como texto**, em vez de renderizar a equação. Para o seu livro, é melhor deixar as fórmulas em **texto matemático simples**, que qualquer leitor consiga enxergar no GitHub sem depender de renderização especial.
 
-Ficaria assim:
-
-# Astrofísica e o Ambiente da Terra
 
 Se a biologia celular nos obriga a reconhecer o Engenheiro que roteou o circuito da vida, a astrofísica nos força a olhar para o ambiente onde essa "placa-mãe" foi instalada.
 
@@ -74,5 +70,3 @@ Se a regra do "1 milímetro" fosse verdadeira, a Terra não poderia suportar nem
 O ponto mais interessante, portanto, não está em imaginar uma Terra equilibrada sobre uma distância absolutamente precisa e imóvel, mas em observar a complexidade do sistema físico no qual nosso planeta está inserido: gravidade, velocidade orbital, distância ao Sol, atmosfera, água líquida, composição química, campo magnético, dinâmica interna e muitos outros fatores interagem dentro de um sistema extremamente complexo.
 
 É nesse contexto que a astrofísica amplia a pergunta iniciada pela biologia: não apenas como o "circuito" da vida funciona, mas também em que tipo de ambiente físico ele está inserido.
-
-Agora está **sem LaTeX**, então o GitHub não precisa interpretar nenhum código matemático: o leitor verá diretamente `Fg = G × M × m / r²`, `v = √(G × M / r)` etc.
