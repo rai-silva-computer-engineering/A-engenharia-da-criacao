@@ -28,3 +28,8 @@ A analogia não representa exatamente a dinâmica orbital, mas ajuda a visualiza
 O mito erra ao tratar a Terra como se ela estivesse equilibrada na ponta de uma agulha, prestes a cair a qualquer momento. A ciência mostra algo muito mais impressionante: o sistema possui leis físicas rigorosas, variações naturais e uma faixa de condições compatíveis com a existência de água líquida e, consequentemente, com a vida como a conhecemos.
 
 As leis da física não são acidentes cósmicos; dentro da perspectiva apresentada neste livro, elas são as linhas de código que mantêm o servidor rodando.
+
+| [← Página anterior](./pagina-07.md) | [Próxima página →](./pagina-09.md) |
+| :---------------------------------- | ---------------------------------: |
+
+
