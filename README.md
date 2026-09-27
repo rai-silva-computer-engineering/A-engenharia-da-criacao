@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="capa livro" src="https://github.com/user-attachments/assets/a9ea794a-1519-4ed1-91e3-e29a4dff771f" />
+<img width="843" height="1264" alt="IMG_2465" src="https://github.com/user-attachments/assets/4ee35b97-2dc0-4800-83ad-3debdbf4c0cb" />
 
 
 
