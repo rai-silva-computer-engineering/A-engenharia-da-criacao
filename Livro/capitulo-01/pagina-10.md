@@ -1,5 +1,5 @@
 
-|[← Página anterior](./Pagina-9.md) | [Próxima página →](./Pagina-11.md)|
+|[← Página anterior](./pagina-09.md) | [Próxima página →](./Pagina-11.md)|
 |:---------------- | ---------------:|
 
 # CAPÍTULO 01 — PÁGINA 10
@@ -28,5 +28,5 @@ Estar submetido à força gravitacional e à radiação térmica de uma estrela 
 
 ---
 
-|[← Página anterior](./Pagina-9.md) | [Próxima página →](./Pagina-11.md)|
+|[← Página anterior](./pagina-09.md) | [Próxima página →](./Pagina-11.md)|
 |:---------------- | ---------------:|
