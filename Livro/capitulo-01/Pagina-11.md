@@ -1,7 +1,7 @@
-|:[Pagina—anterior](./pagina-10.md):| 
 
 # Capítulo 1 — Página 11
 
+|[Pagina—anterior](./pagina-10.md) | [Proxima-pagina](→./pagina-12.md)|
 ## A ELETRÔNICA DA VIDA
 
 Agora precisamos começar a perguntar sobre o **Arquiteto**.
