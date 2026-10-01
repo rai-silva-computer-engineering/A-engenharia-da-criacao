@@ -1,4 +1,5 @@
-
+|[← Página anterior](./pagina-10.md) | [Próxima página →](./Pagina-12.md)|
+|:---------------- | ---------------:|
 # Capítulo 1 — Página 11
 
 |[Pagina—anterior](./pagina-10.md) | [Proxima-pagina](→./pagina-12.md)|
@@ -117,4 +118,7 @@ A diferença é fundamental.
 **Nós podemos receber eternidade sem sermos eternos em nossa origem.**
 
 **Deus, porém, não recebe existência de ninguém.**
+
+|[← Página anterior](./pagina-10.md) | [Próxima página →](./Pagina-12.md)|
+|:---------------- | ---------------:|
 
