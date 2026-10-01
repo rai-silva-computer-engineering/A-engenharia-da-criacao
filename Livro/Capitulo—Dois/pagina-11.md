@@ -1,8 +1,8 @@
-|[← Página anterior](./pagina-10.md) | [Próxima página →](./Pagina-12.md)|
+|[← Página anterior](../pagina-10.md) | [Próxima página →](./Pagina-12.md)|
 |:---------------- | ---------------:|
+
 # Capítulo 1 — Página 11
 
-|[Pagina—anterior](./pagina-10.md) | [Proxima-pagina](→./pagina-12.md)|
 ## A ELETRÔNICA DA VIDA
 
 Agora precisamos começar a perguntar sobre o **Arquiteto**.
@@ -119,4 +119,5 @@ A diferença é fundamental.
 
 **Deus, porém, não recebe existência de ninguém.**
 
-|[← Página anterior](./pagina-10.md) | [Pr
+|[← Página anterior](../pagina-10.md) | [Próxima página →](./Pagina-12.md)|
+|:---------------- | ---------------:|
