@@ -7,11 +7,7 @@
 
 **Se** o Universo apresenta uma estrutura que podemos investigar, leis que podemos descrever e relações matemáticas que podemos calcular, então surge uma questão anterior a todas as outras:
 
-> **Quem projetou o sistema?**
-
-E essa pergunta nos leva inevitavelmente a uma questão ainda mais difícil:
-
-> **Se existe um Criador, quem criou o Criador?**
+> **Quem é o arquiteto desse sistema?**
 
 É nesse ponto que a investigação deixa de estar concentrada apenas na arquitetura do Universo e passa a investigar a própria natureza daquele que, segundo a fé cristã, está por trás dela.
 
@@ -23,7 +19,7 @@ Na minha fase de maior ceticismo — um questionamento interno e silencioso, viv
 
 No fim da linha, a conclusão me deixava profundamente frustrado. A sensação era de que eu continuava sem uma resposta satisfatória.
 
-Hoje, olhando em retrospecto, percebo que talvez não fosse correto dizer que não havia respostas. O problema era outro: muitas das justificativas que eu encontrava não suportavam, para mim, o rigor de um escrutínio analítico.
+mas olhando em retrospecto, talvez não fosse correto dizer que não havia respostas. O problema era outro: muitas das justificativas que eu encontrava não suportavam, para mim, o rigor de um escrutínio analítico.
 
 E, para uma mente acostumada a diagramas lógicos e equações exatas, essa falta de clareza não gerava apenas dúvida. Gerava uma profunda inquietação intelectual.
 
@@ -33,13 +29,11 @@ Ainda assim, a pergunta insistia em martelar o raciocínio:
 
 E havia ainda outra questão:
 
-> **Como um Deus imaterial poderia, por meio de sua vontade, produzir efeitos sobre uma realidade material?**
-
-Mas havia uma pergunta anterior que eu precisava enfrentar:
+> **E havia ainda outra questão: como um Deus anterior à própria matéria poderia, por meio de sua vontade, produzir efeitos sobre ela??**
 
 > **Se tudo aquilo que começa a existir precisa de uma origem, por que Deus seria uma exceção?**
 
-A pergunta parece simples, mas esconde um problema ainda mais profundo.
+A questão parece simples, mas esconde um problema ainda mais profundo.
 
 Se Deus teve um começo, então algo precisou existir antes dele para explicar sua existência. E, nesse caso, Deus não seria a origem última, mas apenas mais um elemento dentro de uma cadeia de causas.
 
@@ -49,17 +43,17 @@ Mas, se Deus não teve começo, surge outra dificuldade para a nossa mente:
 
 Ao longo dos séculos, pensadores apresentaram diferentes respostas para essa questão.
 
-Uma delas parte da ideia de que a pergunta pressupõe que Deus esteja submetido à mesma linha do tempo que nós.
+Uma delas parte da ideia de que a pergunta parte de uma ideia errada, presumindo que Deus esteja submetido à mesma linha do tempo que nós.
 
-O argumento é que, se Deus estivesse dentro do tempo da mesma maneira que nós, também estaria sujeito às condições daquilo que criou. E, se a mente humana pudesse compreendê-lo completamente, estaríamos tratando o infinito como se fosse apenas mais um objeto de análise.
+O argumento é que, se Deus estivesse dentro do tempo da mesma maneira que nós, também estaria sujeito às condições daquilo que criou. E, se a mente humana pudesse compreendê-lo completamente, Ele deixaria de ser Deus e estaríamos tratando o infinito como se fosse apenas mais um objeto de análise.
 
 Mas essa resposta também me fazia questionar.
 
 Eu me perguntava:
 
-> **A soberania de Deus seria realmente ameaçada pelo fato de uma de suas criaturas tentar compreender o seu modo de operação?**
+> **A soberania de Deus seria realmente ameaçada pelo fato de uma de suas criaturas tentar compreender o seu modo de operação ou de fato minha mente humana é muito pequena para caber Ele? E se fui criado com uma mente tão limitada para nao compreende-lo, qual o objetivo dEle como isso?**
 
-Se o Arquiteto é tão imensurável, como a engenharia reversa feita pela compreensão humana poderia, de alguma forma, diminuir aquilo que Ele é?
+Se o Arquiteto é tão imensurável como Ele declara de si mesmo na Bíblia, como a compreensão humana sobre Sua pessoa poderia, de alguma forma, diminuir aquilo que Ele é?
 
 Afinal:
 
