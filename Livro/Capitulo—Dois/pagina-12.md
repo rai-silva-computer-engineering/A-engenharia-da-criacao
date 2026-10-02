@@ -1,4 +1,4 @@
-|[&larr; Pagina-anterior](./pagina-11.md) | [Proxima-pagina &larr;](./pagina-13.md)|
+|[&larr; Pagina-anterior](./pagina-11.md) | [Proxima-pagina &rarr;](./pagina-13.md)|
 |:-------------- | ---------------:|
 E é justamente aqui que a pergunta começa a mudar de forma.
 O problema talvez esteja em tentar imaginar o Criador utilizando as mesmas categorias que utilizamos para descrever as criaturas.
