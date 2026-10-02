@@ -1,5 +1,6 @@
 |[&larr; Pagina-anterior](./pagina-11.md) | [Proxima-pagina &rarr;](./pagina-13.md)|
 |:-------------- | ---------------:|
+
 E é justamente aqui que a pergunta começa a mudar de forma.
 O problema talvez esteja em tentar imaginar o Criador utilizando as mesmas categorias que utilizamos para descrever as criaturas.
 A Bíblia apresenta Deus como aquele que não depende da criação para existir. E é nesse ponto que a ideia de um Criador transcendente ao próprio sistema ganha força dentro da visão cristã.
