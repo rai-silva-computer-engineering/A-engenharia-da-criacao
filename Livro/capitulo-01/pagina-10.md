@@ -1,4 +1,4 @@
-|[← Página anterior](./pagina-09.md) | [Próxima página →](../Capitulo——Dois/Pagina- 11.md)|
+|[← Página anterior](./pagina-09.md) | [Próxima página →](../Capitulo—Dois/Pagina- 11.md)|
 |:---------------- | ---------------:|
 
 # CAPÍTULO 01 — PÁGINA 10
