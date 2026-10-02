@@ -27,7 +27,6 @@ Ainda assim, a pergunta insistia em martelar o raciocínio:
 
 > **Se todo o hardware do cosmos possui uma origem rastreável, qual seria o sentido lógico de o seu Fabricante não ter uma origem?**
 
-E havia ainda outra questão:
 
 > **E havia ainda outra questão: como um Deus anterior à própria matéria poderia, por meio de sua vontade, produzir efeitos sobre ela??**
 
