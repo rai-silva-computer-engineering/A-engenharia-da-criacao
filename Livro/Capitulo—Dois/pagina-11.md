@@ -3,11 +3,9 @@
 
 # Capítulo 1 — Página 11
 
-## A ELETRÔNICA DA VIDA
+## O ARQUITETO
 
-Agora precisamos começar a perguntar sobre o **Arquiteto**.
-
-Se o Universo apresenta uma estrutura que podemos investigar, leis que podemos descrever e relações matemáticas que podemos calcular, então surge uma questão anterior a todas as outras:
+**Se** o Universo apresenta uma estrutura que podemos investigar, leis que podemos descrever e relações matemáticas que podemos calcular, então surge uma questão anterior a todas as outras:
 
 > **Quem projetou o sistema?**
 
