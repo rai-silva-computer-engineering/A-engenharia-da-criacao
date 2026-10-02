@@ -3,7 +3,7 @@
 
 # Capítulo 2 — Página 12
 
-## O ARQUITETO        ## A ENGENHARIA
+## O ARQUITETO 
 
 E é justamente aqui que a pergunta começa a mudar de forma.
 
