@@ -1,5 +1,5 @@
 ]|[&larr; Pagina-anterior](./pagina-13.md) | [Proxima-pagina &rarr;](./pagina-15.md)|
-|:---------- | -------:|
+|:-----------|-----------:|
 
 # Capítulo 2 — 14
 
@@ -155,4 +155,4 @@ E, para mim, buscar essas razões não diminui a fé.
 
 
 ]|[&larr; Pagina-anterior](./pagina-13.md) | [Proxima-pagina &rarr;](./pagina-15.md)|
-|:---------- | -------:|
+|:----------|----------:|
