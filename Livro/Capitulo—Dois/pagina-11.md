@@ -44,7 +44,7 @@ Ao longo dos séculos, pensadores apresentaram diferentes respostas para essa qu
 
 Uma delas afirma que a pergunta parte de uma ideia errada, presumindo que Deus esteja submetido à mesma linha do tempo que nós.
 
-O argumento é que, se Deus estivesse dentro do tempo da mesma maneira que nós, também estaria sujeito às condições daquilo que criou. E, se a mente humana pudesse compreendê-lo completamente, Ele deixaria de ser Deus e estaríamos tratando o infinito como se fosse apenas mais um objeto de análise.
+O argumento é, que se Deus estivesse dentro do tempo da mesma maneira que nós, também estaria sujeito às condições daquilo que criou. E, se a mente humana pudesse compreendê-lo completamente, Ele deixaria de ser Deus e estaríamos tratando o infinito como se fosse apenas mais um objeto de análise.
 
 Mas essa resposta também me fazia questionar.
 
