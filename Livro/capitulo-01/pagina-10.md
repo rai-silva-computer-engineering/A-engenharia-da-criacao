@@ -1,5 +1,5 @@
 
-|[← Página anterior](./pagina-09.md) | [Próxima página →](../Capitulo—/Pagina- 11.md)|
+|[← Página anterior](./pagina-09.md) | [Próxima página →](../Capitulo—Um/Pagina-11.md)|
 |:---------------- | ---------------:|
 
 
