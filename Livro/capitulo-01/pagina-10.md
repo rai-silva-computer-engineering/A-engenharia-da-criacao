@@ -1,4 +1,4 @@
-|[← Página anterior](./pagina-09.md) | [Próxima página →](../Pagina-11.md)|
+|[← Página anterior](./pagina-09.md) | [Próxima página →](../Capitulo—Dois/Pagina-11.md)|
 |:---------------- | ---------------:|
 
 # CAPÍTULO 01 — PÁGINA 10
@@ -42,5 +42,5 @@ Não se trata de abandonar a investigação científica.
 Se existe um sistema que podemos observar, medir e descrever, então precisamos começar a perguntar sobre o Arquiteto.
 ---
 
-|[← Página anterior](./pagina-09.md) | [Próxima página →](../Capitulo—Dois-Pagina-11.md)|
+|[← Página anterior](./pagina-09.md) | [Próxima página →](../Capitulo/Dois-Pagina-11.md)|
 |:---------------- | ---------------:|
