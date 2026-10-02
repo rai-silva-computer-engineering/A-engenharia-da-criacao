@@ -50,7 +50,7 @@ Mas essa resposta também me fazia questionar.
 
 Eu me perguntava:
 
-> **A soberania de Deus seria realmente ameaçada pelo fato de uma de suas criaturas tentar compreender o seu modo de operação ou de fato minha mente humana é muito pequena para caber Ele? E se fui criado com uma mente tão limitada para nao compreende-lo, qual o objetivo dEle como isso?**
+> **A soberania de Deus seria realmente ameaçada pelo fato de uma de suas criaturas tentar compreender o seu modo de operação ou de fato minha mente humana é muito pequena para caber Ele? E se fui criado com uma mente tão limitada para não compreende-lo, qual o objetivo dEle como isso?**
 
 Se o Arquiteto é tão imensurável como Ele declara de si mesmo na Bíblia, como a compreensão humana sobre Sua pessoa poderia, de alguma forma, diminuir aquilo que Ele é?
 
