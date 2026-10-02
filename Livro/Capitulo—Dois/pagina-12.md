@@ -93,13 +93,13 @@ Acompanhe a lógica de uma arquitetura computacional.
 
 Se existisse matéria, mas não houvesse espaço, onde essa matéria estaria?
 
-Se existisse espaço, mas não houvesse tempo, como descreveríamos a evolução de qualquer processo físico?
+Se existisse espaço, mas não houvesse tempo, quando à colocaríamos?
 
 E se houvesse tempo e espaço, mas nenhuma matéria ou energia, o que exatamente estaria acontecendo nesse sistema físico?
 
 Essas perguntas não constituem, por si mesmas, uma demonstração científica da existência de Deus.
 
-Mas ajudam a ilustrar a profundidade da afirmação inicial de Gênesis:
+Mas ajudam a ilustrar a profundidade da afirmação inicial de Gênesis em 9 palavras:
 
 > “No princípio, Deus criou os céus e a terra.”
 
@@ -119,8 +119,8 @@ Mas a correspondência conceitual é, no mínimo, fascinante.
 
 Ao longo da história, também é comum representar a realidade física por meio de estruturas tríplices.
 
-Podemos pensar no tempo em termos de **passado, presente e futuro**; o espaço possui **três dimensões espaciais**; e a matéria pode assumir diferentes estados físicos, entre eles **sólido, líquido e gasoso**.
-
+O tempo tem **passado, presente e futuro**; o espaço possui **possui altura, comprimento e largura**; e a matéria pode assumir diferentes estados físicos, entre eles **sólido, líquido e gasoso**.
+uma trindade tlípece formada.
 Não precisamos transformar essas correspondências em uma prova científica ou em uma fórmula escondida no texto bíblico.
 
 O ponto é outro:
