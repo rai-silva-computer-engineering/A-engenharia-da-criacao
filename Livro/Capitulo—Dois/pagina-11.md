@@ -1,4 +1,4 @@
-|[← Página anterior](../pagina-10.md) | [Próxima página →](./Pagina-12.md)|
+|[← Página anterior](../capitulo-01/pagina-10.md) | [Próxima página →](./Pagina-12.md)|
 |:---------------- | ---------------:|
 
 # Capítulo 1 — Página 11
@@ -119,5 +119,5 @@ A diferença é fundamental.
 
 **Deus, porém, não recebe existência de ninguém.**
 
-|[← Página anterior](../pagina-10.md) | [Próxima página →](./Pagina-12.md)|
+|[← Página anterior](../capitulo-01/pagina-10.md) | [Próxima página →](./Pagina-12.md)|
 |:---------------- | ---------------:|
