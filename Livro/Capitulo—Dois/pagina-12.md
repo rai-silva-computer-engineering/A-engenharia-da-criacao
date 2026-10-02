@@ -52,4 +52,5 @@ Quando a mente humana chega ao limite de suas ferramentas de medição — quand
 Se não conseguimos medir diretamente o Criador, podemos pelo menos examinar as consequências que atribuímos à sua criação.
 E é nesse ponto que a discussão deixa a física e chega à consciência humana.
 
-Página 3
+|[&larr;Pagina-anterior](./pagina-11.md) | [Proxima-pagina &rarr;](./pagina-13.md)|
+|:---------- | -----------:|
