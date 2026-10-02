@@ -45,6 +45,34 @@ A pergunta de Salomão é quase arquitetônica:
 
 > **Como o Criador do espaço poderia estar limitado por uma construção localizada dentro do espaço que Ele mesmo criou?**
 
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                    UNIVERSO                          │
+│              (computador inteiro)                    │
+│                                                      │
+│   ┌──────────────────────────────────────────────┐   │
+│   │                 ESPAÇO                       │   │
+│   │              (placa-mãe)                     │   │
+│   │                                              │   │
+│   │    ┌──────────┐       ┌──────────┐           │   │
+│   │    │   CPU    │       │   RAM    │           │   │
+│   │    └──────────┘       └──────────┘           │   │
+│   │                                              │   │
+│   │    ┌──────────┐       ┌──────────┐           │   │
+│   │    │   SSD    │       │ CIRCUITOS│           │   │
+│   │    └──────────┘       └──────────┘           │   │
+│   │                                              │   │
+│   └──────────────────────────────────────────────┘   │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+Imagine que esse computador represente o Universo inteiro e que uma de suas partes, por exemplo, a placa-mãe, represente o próprio espaço no qual o sistema existe.
+
+Então surge a pergunta:
+
+**Como o engenheiro caberia dentro da placa-mãe que ele mesmo projetou?**
+
 O templo podia ser um lugar de adoração, mas não poderia ser o “gabinete” de Deus.
 
 Os céus não poderiam contê-lo, porque Ele não é apresentado como mais um objeto ocupando uma região do Universo.
