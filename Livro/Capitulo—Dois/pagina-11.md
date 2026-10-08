@@ -1,7 +1,7 @@
 |[← Página anterior](../capitulo-01/pagina-10.md) | [Próxima página →](./pagina-12.md)|
 |:---------------- | ---------------:|
 
-# Capítulo 02 — Página 11
+# Capítulo 2 — Página 11
 
 ## O ARQUITETO
 
