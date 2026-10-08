@@ -1,5 +1,4 @@
-|[&llar;Pagina-anterior](./pagina-14.md) | [ Proxima-pagina &rrar;](./pagina-16.md)|
-
+|[&larr;Pagina-anterior](./pagina-14.md) | [ Proxima-pagina &rarr;](./pagina-16.md)|
 |:--------------------|----------------------:|
 
 
