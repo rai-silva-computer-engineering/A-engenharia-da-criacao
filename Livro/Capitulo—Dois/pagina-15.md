@@ -1,6 +1,10 @@
-|[&laarPagina-anterior](./pagina-14.md) |
+|[&laar;Pagina-anterior](./pagina-14.md) | [ Proxima-pagina &rrar;](./pagina-16.md)|
+|:--------------------|----------------------:|
 
-# O verdadeiro colapso lógico do ceticismo materialista
+# CAPITULO — 02
+## O ARQUITETO
+
+O verdadeiro colapso lógico do ceticismo materialista
 
 O verdadeiro colapso lógico do ceticismo materialista ocorre quando tentamos decifrar a origem de tudo auditando os extremos da criação.
 
@@ -33,3 +37,7 @@ $$
 O tempo de atraso ($\Delta t$) é igual à distância ($d$) dividida pela velocidade da luz no vácuo ($c \approx 300.000$ km/s).
 
 A estrela mais próxima da Terra, logo após o nosso Sol, está a aproximadamente 4,3 anos-luz de distância. A luz emitida por ela demorou mais de 4 anos viajando em velocidade máxima para atingir os espelhos dos nossos telescópios. Isso significa que, se você apontar a lente para essa estrela hoje, não está observando o estado presente dela; você está lendo um dado luminoso obsoleto. Você está vendo como ela era há 4 anos. O telescópio opera, na prática, como uma máquina do tempo visual.
+
+
+|[&laar;Pagina-anterior](./pagina-14.md) | [ Proxima-pagina &rrar;](./pagina-16.md)|
+|:--------------------|----------------------:|
