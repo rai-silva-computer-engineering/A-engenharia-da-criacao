@@ -2,6 +2,9 @@
 |:--------|-----------:|
 
 
+# CAPITULO—02 PAGINA 16
+## O ARQUITETO
+
 E a capacidade de medição avança a passos assustadores. Astrônomos anunciam que podemos captar a luz de uma estrela a 60 anos-luz de distância. Ou seja, ao olhar para essa estrela, estou observando fótons que iniciaram sua trajetória pelo vácuo antes mesmo de eu nascer.
 
 Se esticarmos essa escala métrica, a astronomia moderna nos garante que podemos observar galáxias situadas a 1 milhão de anos-luz. E podemos ir muito além. Pense na gravidade desta afirmação: podemos captar a luz de um objeto a 5 bilhões de anos-luz de distância? Sim. Isso significa que a radiação que atinge o nosso equipamento hoje partiu de lá há 5 bilhões de anos. Estritamente falando, estamos captando reações termonucleares que ocorreram muito antes de a crosta do planeta Terra sequer existir.
