@@ -2,7 +2,7 @@
 |:--------|-----------:|
 
 
-# CAPITULO—02 PAGINA 16
+# CAPITULO—02 pagina 16
 ## O ARQUITETO
 
 E a capacidade de medição avança a passos assustadores. Astrônomos anunciam que podemos captar a luz de uma estrela a 60 anos-luz de distância. Ou seja, ao olhar para essa estrela, estou observando fótons que iniciaram sua trajetória pelo vácuo antes mesmo de eu nascer.
