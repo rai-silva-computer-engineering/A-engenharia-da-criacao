@@ -1,7 +1,7 @@
 |[&larr; Pagina-anterior](./pagina-13.md) | [Proxima-pagina &rarr;](./pagina-15.md)|
 |:-----------|-----------:|
 
-# Capítulo 2 — pagina 14
+# Capítulo 02 — pagina 14
 
 ## O ARQUITETO
 
