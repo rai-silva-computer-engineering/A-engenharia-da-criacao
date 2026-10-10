@@ -1,4 +1,4 @@
-|[&laar; Pagina-anterior](./pagina-17.md) | [Proxima-pagina &rarr;](./pagina-19.md)|
+|[&larr; Pagina-anterior](./pagina-17.md) | [Proxima-pagina &rarr;](./pagina-19.md)|
 |:---------|-----------:|
 
 
@@ -48,5 +48,5 @@ O significado dessas expressões, seu uso em outras passagens bíblicas e sua fu
 
 É a partir dessa análise que poderemos avaliar, com maior rigor, se a hipótese de um intervalo entre Gênesis 1:1 e 1:2 encontra sustentação interpretativa ou se depende de pressupostos que o próprio texto não estabelece.
 
-|[&laar; Pagina-anterior](./pagina-17.md) | [Proxima-pagina &rarr;](./pagina-19.md)|
+|[&larr; Pagina-anterior](./pagina-17.md) | [Proxima-pagina &rarr;](./pagina-19.md)|
 |:---------|-----------:|
