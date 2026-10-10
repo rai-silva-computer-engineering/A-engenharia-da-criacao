@@ -2,7 +2,7 @@
 |:----------|---------:|
 
 
-# CAPITULO—02 PAGINA 17
+# CAPITULO—02 Pagina 17
 
 ## O ARQUITETO
 
