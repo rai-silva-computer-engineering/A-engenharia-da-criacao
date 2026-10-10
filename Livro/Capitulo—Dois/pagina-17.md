@@ -2,7 +2,9 @@
 |:----------|---------:|
 
 
-# A origem do Universo e a organização da Terra
+# CAPITULO—02 PAGINA 17
+
+## O ARQUITETO
 
 O fato de o Arquiteto operar fora das restrições térmicas e espaciais e de não caber no campo de visão de uma lente de telescópio não significa que a matéria tenha sido deixada ao acaso, nem que ela não possa apontar para a existência de seu verdadeiro Engenheiro.
 
@@ -58,3 +60,8 @@ Essa analogia ajuda a visualizar a distinção que orienta este capítulo: a exi
 É importante, porém, estabelecer um limite para a comparação. A analogia com o hardware não prova que Gênesis descreva duas etapas distintas, nem demonstra a existência de um intervalo entre elas. Sua função é esclarecer por que a origem de uma estrutura e sua organização funcional podem ser investigadas separadamente.
 
 Para avaliar se essa distinção pode ser aplicada ao texto bíblico, precisamos voltar às palavras que abrem o relato da criação.
+
+
+
+|[ &larr; Paginga-anterior](./pagina-16.md) | [Proxima-pagina &rarr;](./pagina-18.md)|
+|:----------|---------:|
