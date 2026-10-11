@@ -1,6 +1,8 @@
 |[&larr; Pagina-anterior](./pagina-23.md) | [Proxima-pagina &rarr;](../Capitulo—Três/pagina-25.md)|
 |:-------|---------:|
 
+# CAPITULO—02 Pagina 24
+## O ARQUITETO
 
 A hipótese de que a atmosfera terrestre antiga apresentava propriedades ópticas diferentes das atuais possui fundamento em pesquisas sobre a evolução química e física da atmosfera.
 
