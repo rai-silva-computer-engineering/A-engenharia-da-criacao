@@ -1,1 +1,1 @@
-status: em  correção ortográfica e formação
+status: em  correção ortográfica e formatação
