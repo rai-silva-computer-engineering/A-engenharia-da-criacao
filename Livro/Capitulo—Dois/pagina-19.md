@@ -33,7 +33,7 @@ A expressão “face do abismo” também merece atenção. O termo hebraico *te
 
 *Fonte: NET Bible — Notas sobre Gênesis 1:2.*
 
-Isso não significa que possamos identificar automaticamente o abismo descrito no texto com os oceanos atuais ou com uma etapa geológica específica da Terra. A linguagem bíblica deve ser compreendida em seu próprio contexto antes de ser relacionada a modelos científicos modernos.
+Isso não significa que possamos identificar automaticamente o abismo descrito no texto com os oceanos atuais ou com uma etapa geológica específica da Terra. A linguagem bíblica deve ser compreendida em seu próprio contexto antes de ser relacionada a modelos científicos modernos
 
 |[&larr; Pagina-anterior](pagina-18.md) | [Proxima-pagina &rarr;](pagina-20.md)|
 |:-------|------:|
