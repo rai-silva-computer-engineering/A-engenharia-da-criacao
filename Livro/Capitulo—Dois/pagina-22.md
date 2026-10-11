@@ -1,4 +1,4 @@
-|[&larr; Pagina-anterior](./pagina-21.md) | [Proxima-pagina &rarr;](./pagina23.md)|
+|[&larr; Pagina-anterior](./pagina-21.md) | [Proxima-pagina &rarr;](./pagina-23.md)|
 |:---------|----------:|
 
 # CAPITULO—02 Pagina 22
@@ -102,7 +102,7 @@ reconstrução comprovada da atmosfera terrestre em cada dia de Gênesis.
 ================================================================================
 ```
 
-|[&larr; Pagina-anterior](./pagina-21.md) | [Proxima-pagina &rarr;](./pagina23.md)|
+|[&larr; Pagina-anterior](./pagina-21.md) | [Proxima-pagina &rarr;](./pagina-23.md)|
 |:---------|----------:|
 
 
