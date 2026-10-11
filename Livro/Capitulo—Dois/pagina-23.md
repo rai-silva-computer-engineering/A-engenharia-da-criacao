@@ -4,9 +4,9 @@
 # CAPITULO—02 Pagina 23
 ## O ARQUITETO
 
-A aplicação analítica da equação
 
-Para investigar as condições de iluminação da superfície, dividimos a radiação recebida em duas componentes: a radiação direta, ($I_{\mathrm{dir}}$), e a radiação difusa, ($I_{\mathrm{diff}}$).
+
+Para investigar as condições de iluminação da superfície, dividimos a radiação recebida em duas componentes: a radiação direta, (\(I_{\mathrm{dir}}\)), e a radiação difusa, (\(I_{\mathrm{diff}}\)).
 
 Em uma representação simplificada, a contribuição total pode ser expressa como:
 
@@ -16,7 +16,7 @@ $$
 
 Essa decomposição permite distinguir a radiação que permanece no feixe original daquela que foi redistribuída angularmente pelo espalhamento atmosférico. Para um cálculo rigoroso, ambas as componentes devem ser obtidas de forma consistente a partir das condições de contorno e da solução da equação de transferência radiativa.
 
-**1. A solução do primeiro dia: profundidade óptica elevada**
+## 1. A solução do primeiro dia: profundidade óptica elevada
 
 Quando a profundidade óptica é muito elevada, o meio é opticamente espesso. A transmissão do feixe direto não espalhado é descrita pela Lei de Beer-Lambert:
 
@@ -24,9 +24,9 @@ $$
 I_{\mathrm{dir}} = I_0e^{-\tau/\mu_0}
 $$
 
-em que ($I_0$) é a intensidade incidente no topo da atmosfera e ($\mu_0=\cos\theta_0$) representa o cosseno do ângulo zenital solar.
+Em que \(I_0\) é a intensidade incidente no topo da atmosfera e \(\mu_0=\cos\theta_0\) representa o cosseno do ângulo zenital solar.
 
-Considerando, como exemplo ilustrativo, uma profundidade óptica vertical de ($\tau=50$) e o Sol no zênite, de modo que ($\mu_0=1$), obtemos:
+Considerando, como exemplo ilustrativo, uma profundidade óptica vertical de \(\tau=50\) e o Sol no zênite, de modo que \(\mu_0=1\), obtemos:
 
 $$
 I_{\mathrm{dir}} = I_0e^{-50}
@@ -52,9 +52,9 @@ Portanto, a física permite formular um cenário em que a superfície receba luz
 
 No contexto da hipótese investigada, esse primeiro estado representa a possibilidade de existir radiação solar sem que sua fonte seja identificável com nitidez por um observador na superfície. Essa possibilidade física, contudo, não demonstra que tal condição corresponda historicamente ao primeiro dia do relato bíblico.
 
-**2. A solução do quarto dia: redução da profundidade óptica**
+## 2. A solução do quarto dia: redução da profundidade óptica
 
-Consideremos agora uma atmosfera hipotética com profundidade óptica vertical de ($\tau=0{,}1$). Mantendo o Sol no zênite, temos:
+Consideremos agora uma atmosfera hipotética com profundidade óptica vertical de \(\tau=0{,}1\). Mantendo o Sol no zênite, temos:
 
 $$
 I_{\mathrm{dir}} = I_0e^{-0{,}1}
@@ -72,7 +72,7 @@ $$
 
 Nesse caso, aproximadamente 90,48% da intensidade incidente permanece no feixe direto, segundo o modelo de extinção adotado.
 
-O resultado depende da posição aparente do Sol. Para um ângulo zenital de ($60^\circ$), por exemplo, ($\mu_0=0{,}5$), e a transmissão passa a ser:
+O resultado depende da posição aparente do Sol. Para um ângulo zenital de \(60^\circ\), por exemplo, \(\mu_0=0{,}5\), e a transmissão passa a ser:
 
 $$
 T_{\mathrm{dir}} = e^{-0{,}1/0{,}5}
@@ -90,7 +90,7 @@ Assim, uma profundidade óptica menor favorece a transmissão direta, mas a dete
 
 Se a hipótese de uma mudança atmosférica for adotada, a redução da profundidade óptica poderia representar uma transição entre um estado de forte atenuação direta e outro no qual o feixe solar se tornasse mais intenso e a fonte, potencialmente, mais fácil de identificar.
 
-Essa transição é fisicamente investigável. Entretanto, os valores ($\tau=50$) e ($\tau=0{,}1$) são parâmetros ilustrativos do modelo, e não medições estabelecidas da atmosfera terrestre nos períodos correspondentes aos dias de Gênesis.
+Essa transição é fisicamente investigável. Entretanto, os valores \(\tau=50\) e \(\tau=0{,}1\) são parâmetros ilustrativos do modelo, e não medições estabelecidas da atmosfera terrestre nos períodos correspondentes aos dias de Gênesis.
 
 |[&larr; Pagina-anterior](./pagina-22.md) | [Proxima-pagina &rarr;](./pagina-24.md)|
 |:-----------|-----------:|
