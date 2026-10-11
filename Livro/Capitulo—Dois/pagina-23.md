@@ -51,9 +51,9 @@ $$ \frac{I_{\mathrm{dir}}}{I_0} = e^{-0,1} \approx 0{,}90484 $$
 
 Logo:
 
-$$
+$
 \boxed{T_{\mathrm{dir}} \approx 90{,}48\%}
-$$
+$
 
 Nesse caso, aproximadamente 90,48% da intensidade incidente permanece no feixe direto, segundo o modelo de extinção adotado.
 
