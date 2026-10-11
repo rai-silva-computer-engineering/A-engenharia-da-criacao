@@ -3,7 +3,10 @@
 
 # CAPITULO—02 Pagina 20
 ## O ARQUITETO
-a questão que emerge dessa descrição parece abrir caminho para a interpretação de que as trevas indicam que o Sol ainda não existia ou descrevem uma condição em que a superfície terrestre permanecia sem iluminação, apesar de uma possível fonte luminosa preexistente?
+
+Mas, uma vez estabelecido que o relato descreve uma superfície submersa e imersa na escuridão, precisamos enfrentar o problema físico que essa cena propõe.
+
+A questão que emerge dessa descrição parece abrir caminho para duas interpretações principais: as trevas indicam que o Sol ainda não existia ou descrevem uma condição em que a superfície terrestre permanecia sem iluminação, apesar de uma possível fonte luminosa preexistente?
 
 O texto não fornece uma resposta explícita. Para investigar a segunda possibilidade, precisamos compreender como a luz se comporta ao atravessar um meio físico.
 
