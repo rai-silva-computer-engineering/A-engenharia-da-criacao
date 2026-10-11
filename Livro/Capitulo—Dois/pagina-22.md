@@ -4,7 +4,7 @@
 # CAPITULO—02 Pagina 22
 # O ARQUITETO
 
-
+```
 Para compreender fisicamente como o Sol poderia estar ativo desde o princípio sem atuar como um referencial astronômico nitidamente identificável na superfície terrestre, modelaremos a atmosfera como um filtro óptico de processamento de sinais. Na física computacional de atmosferas, a propagação da luz não é descrita apenas pela atenuação direta, representada pela Lei de Beer-Lambert, mas também pela Equação Integro-Diferencial de Transferência Radiativa (RTE), que permite considerar a absorção e o espalhamento da radiação.
 
 Considerando um modelo plano-paralelo, a variação da intensidade específica da radiação \(I\) ao longo da profundidade óptica vertical \(\tau\) pode ser expressa, para um meio sem emissão térmica significativa na faixa espectral considerada, pela equação:
