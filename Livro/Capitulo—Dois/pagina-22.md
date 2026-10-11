@@ -1,5 +1,5 @@
 |[&larr; Pagina-anterior](./pagina-21.md) | [Proxima-pagina &rarr;](./pagina23.md)|
-|:---------:----------:|
+|:---------|----------:|
 
 # CAPITULO—02 Pagina 22
 # O ARQUITETO
@@ -119,6 +119,6 @@ reconstrução comprovada da atmosfera terrestre em cada dia de Gênesis.
 ```
 
 |[&larr; Pagina-anterior](./pagina-21.md) | [Proxima-pagina &rarr;](./pagina23.md)|
-|:---------:----------:|
+|:---------|----------:|
 
 
