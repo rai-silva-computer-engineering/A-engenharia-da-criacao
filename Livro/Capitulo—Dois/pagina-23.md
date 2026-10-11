@@ -68,7 +68,17 @@ O resultado depende da posição aparente do Sol. Para um ângulo zenital de $60
 
 $$ T_{\mathrm{dir}} = e^{-0,1/0,5} $$
 
-$$ \boxed{T_{\mathrm{dir}} \approx 81{,}87\%} $$
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <menclose notation="box">
+    <msub>
+      <mi>T</mi>
+      <mi>dir</mi>
+    </msub>
+    <mo>&#8776;</mo>
+    <mn>81,87</mn>
+    <mo>%</mo>
+  </menclose>
+</math>
 
 Isso ocorre porque a radiação percorre um caminho atmosférico maior quando o Sol está mais distante da vertical.
 
