@@ -14,11 +14,9 @@ Segundo a NASA, o Sistema Solar começou a se formar há aproximadamente 4,6 bil
 
 *Fontes: NASA — Formação do Sistema Solar · USGS — Idade da Terra.*
 
-Esses dados estabelecem o contexto científico da nossa investigação. Se adotarmos a hipótese de que os corpos celestes já existiam antes do início da semana da criação, precisamos investigar o que mudou na condição terrestre quando Deus ordenou: “Haja luz”.
+ Se adotarmos a hipótese de que os corpos celestes já existiam antes do início da semana da criação, precisamos investigar o que mudou na condição terrestre quando Deus ordenou: “Haja luz”.
 
-** “Havia trevas sobre a face do abismo”: o que o texto descreve?**
-
-Antes de investigar a transmissão da luz, precisamos retornar à descrição imediatamente anterior:
+Mas antes de investigar a transmissão da luz, precisamos retornar à descrição imediatamente anterior:
 
 > “E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.” — Gênesis 1:2
 
