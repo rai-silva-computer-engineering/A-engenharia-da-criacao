@@ -19,8 +19,7 @@ Até este ponto, conseguimos identificar um problema físico concreto: a diferen
 A engenharia e a física fornecem instrumentos para investigar essa diferença. A lei de Beer-Lambert, por exemplo, permite calcular a atenuação da radiação em condições conhecidas. Modelos atmosféricos podem estimar os efeitos da absorção e do espalhamento da luz.
 
 Essas ferramentas, entretanto, não determinam o significado de Gênesis 1:3 nem demonstram que uma mudança atmosférica específica corresponda ao primeiro dia da criação.
-
-A investigação permanece aberta: precisamos compreender o que o relato afirma sobre a luz, examinar a relação com as trevas descritas no versículo anterior e avaliar a apresentação dos luminares no quarto dia.
+precisamos compreender o que o relato afirma sobre a luz, examinar a relação com as trevas descritas no versículo anterior e avaliar a apresentação dos luminares no quarto dia.
 
 A análise será mais completa quando esses elementos forem examinados em conjunto, e não como acontecimentos isolados.
 
