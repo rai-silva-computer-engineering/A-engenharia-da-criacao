@@ -16,7 +16,7 @@ Segundo a NASA, o Sistema Solar começou a se formar há aproximadamente 4,6 bil
 
 Esses dados estabelecem o contexto científico da nossa investigação. Se adotarmos a hipótese de que os corpos celestes já existiam antes do início da semana da criação, precisamos investigar o que mudou na condição terrestre quando Deus ordenou: “Haja luz”.
 
-**4.1. “Havia trevas sobre a face do abismo”: o que o texto descreve?**
+** “Havia trevas sobre a face do abismo”: o que o texto descreve?**
 
 Antes de investigar a transmissão da luz, precisamos retornar à descrição imediatamente anterior:
 
