@@ -5,7 +5,7 @@
 
 ## O ARQUITETO
 
-Porém, o texto estabelece uma premissa inegável: o cenário inicial é o de um sistema físico imerso em trevas absolutas. A superfície da Terra estava submersa e isolada pela escuridão. E é justamente para romper essa condição de "sistema apagado" que o Arquiteto emite sua primeira ordem operacional.
+
 
 > “E disse Deus: Haja luz; e houve luz.” — Gênesis 1:3
 
