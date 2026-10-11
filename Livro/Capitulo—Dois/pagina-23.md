@@ -4,6 +4,8 @@
 # CAPITULO—02 Pagina 23
 ## O ARQUITETO
 
+A aplicação analítica da equação
+
 Para investigar as condições de iluminação da superfície, dividimos a radiação recebida em duas componentes: a radiação direta, ($I_{\mathrm{dir}}$), e a radiação difusa, ($I_{\mathrm{diff}}$).
 
 Em uma representação simplificada, a contribuição total pode ser expressa como:
