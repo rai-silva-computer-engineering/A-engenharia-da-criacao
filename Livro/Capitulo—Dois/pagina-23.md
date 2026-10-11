@@ -50,10 +50,17 @@ $$ I_{\mathrm{dir}} = I_0 e^{-0,1} $$
 $$ \frac{I_{\mathrm{dir}}}{I_0} = e^{-0,1} \approx 0{,}90484 $$
 
 Logo:
-
-$$
-\boxed{T_{\mathrm{dir}} \approx 90\text{,}48\%}
-$$
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <menclose notation="box">
+    <msub>
+      <mi>T</mi>
+      <mi>dir</mi>
+    </msub>
+    <mo>&#8776;</mo>
+    <mn>90,48</mn>
+    <mo>%</mo>
+  </menclose>
+</math>
 
 Nesse caso, aproximadamente 90,48% da intensidade incidente permanece no feixe direto, segundo o modelo de extinção adotado.
 
