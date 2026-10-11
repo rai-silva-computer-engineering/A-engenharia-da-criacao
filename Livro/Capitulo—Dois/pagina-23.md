@@ -39,7 +39,7 @@ $$
 Em porcentagem:
 
 $$
-\boxed{T_{\mathrm{dir}} \approx 1{,}93\times10^{-20}\%}
+T_{\mathrm{dir}} \approx 1.93 \times 10^{-20}\%
 $$
 
 Nessas condições, a transmissão direta é efetivamente desprezível.
